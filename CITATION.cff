@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you cite or quote these CV variants, please cite them as below."
+title: "CV variants - one person, role-targeted packagings of a single resume record"
+type: dataset
+authors:
+  - family-names: Dziatkovskii
+    given-names: Anton
+    orcid: "https://orcid.org/0000-0001-7408-3054"
+    affiliation: "Palo Alto AI Research Lab"
+repository-code: "https://github.com/tonydzi/cv"
+url: "https://tonydzi.github.io/resume.json"
+abstract: >-
+  Role-targeted CV variants generated from one master record published as resume.json.
+  Each markdown file packages the same career facts for a different role cluster -
+  forward-deployed and solutions engineering, developer relations, technical product
+  management and founding GTM, business development and partnerships, applied AI agent
+  security, technical writing and AI education, stablecoin and digital-currency strategy,
+  and exchange and trading infrastructure - by reordering and foregrounding, not by
+  changing the history. The variants are emphasis rather than separate records, so they
+  are not to be merged or summed; where a variant and the master record disagree, the
+  master record governs. Self-reported career documents, published openly next to the
+  author's open-source repositories so that technical claims can be checked against code
+  rather than taken from the document.
+keywords:
+  - curriculum-vitae
+  - resume
+  - json-resume
+  - career-documents

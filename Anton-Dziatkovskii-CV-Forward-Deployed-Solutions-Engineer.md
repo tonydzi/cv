@@ -13,11 +13,14 @@ Production multi-machine Claude fleet run in public: claw-consensus (reproducibl
 
 **Co-Founder — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
 
-Built Solidity curricula and scaled a distributed engineering org to 40+ developers across APAC. Ran hackathons, cohorts and incubations for Web3 builders — from first workshop to shipped mainnet product. Advisor to enterprise subsidiaries of Foxconn and ANA Airlines.
+Co-founded and ran a startup incubator + software house in APAC for 9 years, alongside Japanese partner Tetsuji Nagata (Grand Corp). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
 
-- $35M fund under management, syndicate of 250 VCs/angels; helped portfolio startups raise capital end-to-end: deck, intros, term negotiation
-- 10,000+ calls with startup founders and 2,000+ with institutional investors over a decade; built and operates his own investor CRM/database (syndicate of 250 VCs/angels)
-- advisor to enterprise subsidiaries of Foxconn and ANA Airlines
+- In fundraising since 2017: $35M fund under management, syndicate of 250 VCs/angels; helped portfolio startups raise end-to-end — deck, investor intros, term negotiation
+- Built a deal-flow machine: 10,000+ founder calls and 2,000+ institutional-investor calls; qualified, enriched investor base across the US, Japan, Korea, China, Australia and Europe
+- Wrote my own CRM to run it (roots: 5 years building ERP/CRM on Salesforce and Microsoft Navision at Merlion): social enrichment, parsing at scale, lead-to-call pipelines; up to 30 operators worked in it daily; today it is AI-native
+- Ran cohorts end-to-end: recruited builders, coached founders, matched advisors; enterprise advisory for subsidiaries of Foxconn and ANA Airlines
+- Shipped crypto-exchange infrastructure: cryptocurrency backends, market-maker engines, high-frequency trading systems; partnerships with hedge funds, market makers, brokers
+- Managed a distributed engineering org of 40+ developers across APAC as product owner
 
 **Chief Engineer, Lending & Risk Management — Everex (Singapore)** (2017 – 2018)
 
@@ -25,7 +28,7 @@ Blockchain credit scoring, stable-value payments.
 
 **Sales & CRM-ERP Director — Merlion** (2006 – 2015)
 
-One of the largest private IT distributors in Eastern Europe.
+One of the largest private IT distributors in Eastern Europe. Built ERP and CRM systems on Microsoft Navision and Salesforce (5 years) — where I learned that deal flow runs on CRM quality.
 
 ## Selected proof
 - 110 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, sqlite-graph-memory, second-brain-starter-kit

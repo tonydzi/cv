@@ -1,15 +1,11 @@
-# Anton Dziatkovskii — Technical PM / AI Product / Founding GTM
+# Anton Dziatkovskii — Exchange & Trading Infrastructure (Perps, Market Making, HFT)
 
 https://tonydzi.github.io/ · github.com/tonydzi · a@platinum.fund · Palo Alto, CA – Lisbon, PT / US O-1
 
 ## Summary
-Launching products from scratch is my default mode: 7+ years venture founder, first non-engineer hire material — I own problem framing, architecture decisions, evaluation and GTM while engineers (human or AI) implement. Current proof: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. US O-1 visa (active) — authorized to work in the US, no lottery needed; open to relocation (SF Bay Area base network) or remote
+Shipped crypto-exchange infrastructure hands-on: cryptocurrency backends, market-maker engines, high-frequency trading systems; consulted startups building exchanges and perpetuals venues. Owner-level relationships with market makers, hedge funds, brokers and exchanges built over a decade of servicing them. Portfolio focus at Platinum was exchange/trading infrastructure (~70% crypto). Today I also run an AI-native operation: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. US O-1 visa (active) — authorized to work in the US, no lottery needed; open to relocation (SF Bay Area base network) or remote
 
 ## Experience
-
-**Founder — Palo Alto AI Research Lab** (2023 – now)
-
-Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 **Co-Founder — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
 
@@ -23,13 +19,17 @@ Co-founded and ran a startup incubator + software house in APAC since 2015 (11 y
 - Designed one of the first detailed frameworks for a national government to issue its own stablecoins (regulatory + token-economic design)
 - Managed a distributed engineering org of 40+ developers across APAC as product owner
 
-**Sales Director / CRM-ERP Development Director (Microsoft Navision, Salesforce) — Merlion** (2006 – 2015)
-
-One of the largest private IT distributors in Eastern Europe. Built ERP and CRM systems on Microsoft Navision and Salesforce (5 years) — where I learned that deal flow runs on CRM quality.
-
 **Chief Engineer, Lending & Risk Management — Everex (Singapore)** (2017 – 2018)
 
 Wrote smart contracts and led government/bank relations across SE Asia on structuring crypto payments and stablecoins; blockchain credit scoring, stable-value payments.
+
+**Founder — Palo Alto AI Research Lab** (2023 – now)
+
+Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), the operating manual written day by day (相棒 AIBŌ · The Partner).
+
+**Sales Director / CRM-ERP Development Director (Microsoft Navision, Salesforce) — Merlion** (2006 – 2015)
+
+One of the largest private IT distributors in Eastern Europe. Built ERP and CRM systems on Microsoft Navision and Salesforce (5 years) — where I learned that deal flow runs on CRM quality.
 
 **CRM Developer Intern — CRM/ERP consulting (Salesforce ecosystem)** (2004 – 2006)
 
@@ -46,4 +46,4 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 - BSc, Computer and Information Sciences, National Research Nuclear University MEPhI
 
 ## Keywords
-technical product manager, AI product, founding team, GTM, zero to one, roadmap, evals, agents, B2B, startup
+exchange, perpetuals, perps, market making, HFT, trading infrastructure, derivatives, liquidity, hedge funds, brokers, matching engine, crypto

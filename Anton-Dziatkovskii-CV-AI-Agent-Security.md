@@ -13,19 +13,23 @@ Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, inc
 
 **Chief Engineer, Lending & Risk Management — Everex (Singapore)** (2017 – 2018)
 
-Blockchain credit scoring, stable-value payments.
+Wrote smart contracts and led government/bank relations across SE Asia on structuring crypto payments and stablecoins; blockchain credit scoring, stable-value payments.
 
 **Co-Founder — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
 
-Co-founded and ran a startup incubator + software house in APAC for 9 years, alongside Japanese partner Tetsuji Nagata (Grand Corp). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
+Co-founded and ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
 
 - Shipped crypto-exchange infrastructure: cryptocurrency backends, market-maker engines, high-frequency trading systems; partnerships with hedge funds, market makers, brokers
 - Designed one of the first detailed frameworks for a national government to issue its own stablecoins (regulatory + token-economic design)
 - Managed a distributed engineering org of 40+ developers across APAC as product owner
 
-**Sales & CRM-ERP Director — Merlion** (2006 – 2015)
+**Sales Director / CRM-ERP Development Director (Microsoft Navision, Salesforce) — Merlion** (2006 – 2015)
 
 One of the largest private IT distributors in Eastern Europe. Built ERP and CRM systems on Microsoft Navision and Salesforce (5 years) — where I learned that deal flow runs on CRM quality.
+
+**CRM Developer Intern — CRM/ERP consulting (Salesforce ecosystem)** (2004 – 2006)
+
+First professional years: CRM systems development in the Salesforce/ERP ecosystem.
 
 ## Selected proof
 - 110 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, sqlite-graph-memory, second-brain-starter-kit

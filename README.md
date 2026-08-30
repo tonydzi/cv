@@ -8,3 +8,5 @@ Single source of truth: [resume.json](https://tonydzi.github.io/resume.json). Sa
 - [BD / Partnerships / EIR / Venture](Anton-Dziatkovskii-CV-BD-Partnerships-EIR.md)
 - [AI Agent Security / Safety Engineering (applied)](Anton-Dziatkovskii-CV-AI-Agent-Security.md)
 - [Technical Writer / AI Educator / Evals & Research-adjacent](Anton-Dziatkovskii-CV-Technical-Writer-AI-Educator.md)
+- [Stablecoin / Digital-Currency Strategy & BD](Anton-Dziatkovskii-CV-Stablecoin-Digital-Currency-BD.md)
+- [Exchange & Trading Infrastructure (Perps, Market Making, HFT)](Anton-Dziatkovskii-CV-Exchange-Trading-Infrastructure.md)

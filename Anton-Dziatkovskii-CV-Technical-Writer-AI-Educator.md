@@ -1,15 +1,15 @@
 # Anton Dziatkovskii — Technical Writer / AI Educator / Evals & Research-adjacent
 
-https://tonydzi.github.io/ · github.com/tonydzi · a@platinum.fund · Lisbon, PT / US O-1
+https://tonydzi.github.io/ · github.com/tonydzi · a@platinum.fund · Palo Alto, CA – Lisbon, PT / US O-1
 
 ## Summary
 PhD + practitioner: 50+ published items, 136 citations, h-index 7 (verified 2026-08-28); 2 preprints on multi-agent stability (arXiv in progress). Designed and taught Solidity curricula; writing a book on human-AI collaboration (相棒 AIBŌ · The Partner) while running a production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. I turn messy frontier practice into reproducible docs, evals and courses. US O-1 visa (active) — authorized to work in the US, no lottery needed; open to relocation (SF Bay Area base network) or remote
 
 ## Experience
 
-**Founder — Palo Alto AI Research Lab** (2026-05 – now)
+**Founder — Palo Alto AI Research Lab** (2023 – now)
 
-Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), the operating manual written day by day (相棒 AIBŌ · The Partner).
+Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 **Co-Founder — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
 
@@ -17,7 +17,7 @@ Co-founded and ran a startup incubator + software house in APAC for 9 years, alo
 
 - Ran cohorts end-to-end: recruited builders, coached founders, matched advisors; enterprise advisory for subsidiaries of Foxconn and ANA Airlines
 - community organizer since 2019: Moscow Cryptoeconomics Research Group meetups → Silicon Valley crypto meetups (Crypto Mondays)
-- Managed a distributed engineering org of 40+ developers across APAC as product owner
+- Designed one of the first detailed frameworks for a national government to issue its own stablecoins (regulatory + token-economic design)
 
 **Chief Engineer, Lending & Risk Management — Everex (Singapore)** (2017 – 2018)
 

@@ -1,15 +1,15 @@
 # Anton Dziatkovskii — AI Agent Security / Safety Engineering (applied)
 
-https://tonydzi.github.io/ · github.com/tonydzi · a@platinum.fund · Lisbon, PT / US O-1
+https://tonydzi.github.io/ · github.com/tonydzi · a@platinum.fund · Palo Alto, CA – Lisbon, PT / US O-1
 
 ## Summary
 MSc in Computer & Information Systems Security (MEPhI, cryptography); smart-contract audit background; today I build guardrails for production agent fleets: agent-leash, verbatim-citation-gate (catches fabricated RAG citations), three-circuit homeostatic governance (preprint). I run the attack surface I defend: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. US O-1 visa (active) — authorized to work in the US, no lottery needed; open to relocation (SF Bay Area base network) or remote
 
 ## Experience
 
-**Founder — Palo Alto AI Research Lab** (2026-05 – now)
+**Founder — Palo Alto AI Research Lab** (2023 – now)
 
-Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), the operating manual written day by day (相棒 AIBŌ · The Partner).
+Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 **Chief Engineer, Lending & Risk Management — Everex (Singapore)** (2017 – 2018)
 
@@ -20,6 +20,7 @@ Blockchain credit scoring, stable-value payments.
 Co-founded and ran a startup incubator + software house in APAC for 9 years, alongside Japanese partner Tetsuji Nagata (Grand Corp). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
 
 - Shipped crypto-exchange infrastructure: cryptocurrency backends, market-maker engines, high-frequency trading systems; partnerships with hedge funds, market makers, brokers
+- Designed one of the first detailed frameworks for a national government to issue its own stablecoins (regulatory + token-economic design)
 - Managed a distributed engineering org of 40+ developers across APAC as product owner
 
 **Sales & CRM-ERP Director — Merlion** (2006 – 2015)

@@ -1,15 +1,15 @@
 # Anton Dziatkovskii — Forward-Deployed / AI Deployment Engineer (Solutions)
 
-https://tonydzi.github.io/ · github.com/tonydzi · a@platinum.fund · Lisbon, PT / US O-1
+https://tonydzi.github.io/ · github.com/tonydzi · a@platinum.fund · Palo Alto, CA – Lisbon, PT / US O-1
 
 ## Summary
 I deploy AI into messy real-world environments every day: I run a production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. Not a classical SWE — an operator who ships working agent systems end-to-end (MCP connectors, RAG over a 10-year knowledge base, CRM automation, evals) and can sit in front of a customer: 15+ years founder/BD background. US O-1 visa (active) — authorized to work in the US, no lottery needed; open to relocation (SF Bay Area base network) or remote
 
 ## Experience
 
-**Founder — Palo Alto AI Research Lab** (2026-05 – now)
+**Founder — Palo Alto AI Research Lab** (2023 – now)
 
-Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), the operating manual written day by day (相棒 AIBŌ · The Partner).
+Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 **Co-Founder — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
 
@@ -20,6 +20,7 @@ Co-founded and ran a startup incubator + software house in APAC for 9 years, alo
 - Wrote my own CRM to run it (roots: 5 years building ERP/CRM on Salesforce and Microsoft Navision at Merlion): social enrichment, parsing at scale, lead-to-call pipelines; up to 30 operators worked in it daily; today it is AI-native
 - Ran cohorts end-to-end: recruited builders, coached founders, matched advisors; enterprise advisory for subsidiaries of Foxconn and ANA Airlines
 - Shipped crypto-exchange infrastructure: cryptocurrency backends, market-maker engines, high-frequency trading systems; partnerships with hedge funds, market makers, brokers
+- Designed one of the first detailed frameworks for a national government to issue its own stablecoins (regulatory + token-economic design)
 - Managed a distributed engineering org of 40+ developers across APAC as product owner
 
 **Chief Engineer, Lending & Risk Management — Everex (Singapore)** (2017 – 2018)

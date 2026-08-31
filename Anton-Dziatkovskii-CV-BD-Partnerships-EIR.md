@@ -34,6 +34,7 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 
 ## Selected proof
 - 110 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, sqlite-graph-memory, second-brain-starter-kit
+- Agent-governance evals, measured (frozen logs + verify_claims.py, 2026-06-29→07-14): 744 events / 71 proposals; 0 of 17 risky (Tier-2) actions auto-committed without human approval
 - 50+ published items, 136 citations, h-index 7 (verified 2026-08-28); 2 preprints on multi-agent stability (arXiv in progress)
 
 ## Education

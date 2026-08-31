@@ -1,23 +1,27 @@
-# Anton Dziatkovskii — Technical Writer / AI Educator / Evals & Research-adjacent
+# Anton Dziatkovskii — Ecosystem Growth / Head of Ecosystem (Crypto × AI)
 
 https://tonydzi.github.io/ · github.com/tonydzi · a@platinum.fund · Palo Alto, CA – Lisbon, PT / US O-1
 
 ## Summary
-PhD + practitioner: 50+ published items, 136 citations, h-index 7 (verified 2026-08-28); 2 preprints on multi-agent stability (arXiv in progress). Designed and taught Solidity curricula; writing a book on human-AI collaboration (相棒 AIBŌ · The Partner) while running a production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. I turn messy frontier practice into reproducible docs, evals and courses. US O-1 visa (active) — authorized to work in the US, no lottery needed; open to relocation (SF Bay Area base network) or remote
+A decade running ecosystem functions hands-on: developer activation for a frontier platform (Solidity curricula, hackathons, cohorts) back when smart contracts were where LLM agents are now; incubator cohorts end-to-end; community organizing from Moscow research meetups to Silicon Valley Crypto Mondays; owner-level relationships with market makers, hedge funds, brokers and investors built over a decade of servicing them. Today I run the same playbook on the AI side: a 500+ community of AI practitioners and a production multi-machine Claude fleet built in public. I connect capital ↔ builders ↔ liquidity ↔ partnerships — and I ship on the platform myself. US O-1 visa (active) — authorized to work in the US, no lottery needed; open to relocation (SF Bay Area base network) or remote
 
 ## Experience
-
-**Founder — Palo Alto AI Research Lab** (2023 – now)
-
-Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 **Co-Founder — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
 
 Co-founded and ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
 
+- In fundraising since 2017: $35M fund under management, syndicate of 250 VCs/angels; helped portfolio startups raise end-to-end — deck, investor intros, term negotiation
+- Built a deal-flow machine: 10,000+ founder calls and 2,000+ institutional-investor calls; qualified, enriched investor base across the US, Japan, Korea, China, Australia and Europe
 - Ran cohorts end-to-end: recruited builders, coached founders, matched advisors; enterprise advisory for subsidiaries of Foxconn and ANA Airlines
-- community organizer since 2019: Moscow Cryptoeconomics Research Group meetups → Silicon Valley crypto meetups (Crypto Mondays)
+- Community organizer since 2019: Moscow Cryptoeconomics Research Group meetups → Silicon Valley crypto meetups (Crypto Mondays)
+- Shipped crypto-exchange infrastructure: cryptocurrency backends, market-maker engines, high-frequency trading systems; partnerships with hedge funds, market makers, brokers
 - Designed one of the first detailed frameworks for a national government to issue its own stablecoins (regulatory + token-economic design)
+- Managed a distributed engineering org of 40+ developers across APAC as product owner
+
+**Founder — Palo Alto AI Research Lab** (2023 – now)
+
+Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 **Chief Engineer, Lending & Risk Management — Everex (Singapore)** (2017 – 2018)
 
@@ -43,4 +47,4 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 - BSc, Computer and Information Sciences, National Research Nuclear University MEPhI
 
 ## Keywords
-technical writing, documentation, developer education, evals, curriculum, research engineer adjacent, publications, benchmarks
+head of ecosystem, ecosystem growth, developer activation, grants, partnerships, community, hackathons, incubation, listings, foundation, institutional onboarding, liquidity, crypto, AI agents

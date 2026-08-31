@@ -13,9 +13,9 @@ Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, inc
 
 **Co-Founder — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
 
-Co-founded and ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
+Co-founded and ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
 
-- Ran cohorts end-to-end: recruited builders, coached founders, matched advisors; enterprise advisory for subsidiaries of Foxconn and ANA Airlines
+- Wrote my own CRM to run it (roots: 5 years building ERP/CRM on Salesforce and Microsoft Navision at Merlion): social enrichment, parsing at scale, lead-to-call pipelines; up to 30 operators worked in it daily; today it is AI-native
 - community organizer since 2019: Moscow Cryptoeconomics Research Group meetups → Silicon Valley crypto meetups (Crypto Mondays)
 - Designed one of the first detailed frameworks for a national government to issue its own stablecoins (regulatory + token-economic design)
 
@@ -33,7 +33,6 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 
 ## Selected proof
 - 110 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, sqlite-graph-memory, second-brain-starter-kit
-- Agent-governance evals, measured (frozen logs + verify_claims.py, 2026-06-29→07-14): 744 events / 71 proposals; 0 of 17 risky (Tier-2) actions auto-committed without human approval
 - 50+ published items, 136 citations, h-index 7 (verified 2026-08-28); 2 preprints on multi-agent stability (arXiv in progress)
 
 ## Education

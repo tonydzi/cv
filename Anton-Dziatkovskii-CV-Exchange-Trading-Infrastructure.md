@@ -9,8 +9,9 @@ Shipped crypto-exchange infrastructure hands-on: cryptocurrency backends, market
 
 **Co-Founder — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
 
-Co-founded and ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
+Co-founded and ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
 
+- Superconnector as a system: founders, builders, engineers and investors matched daily — and every repeatable connector motion (enrichment, matching, follow-up) automated, first with a self-built CRM, today with AI agents
 - In fundraising since 2017: $35M fund under management, syndicate of 250 VCs/angels; helped portfolio startups raise end-to-end — deck, investor intros, term negotiation
 - Built a deal-flow machine: 10,000+ founder calls and 2,000+ institutional-investor calls; qualified, enriched investor base across the US, Japan, Korea, China, Australia and Europe
 - Wrote my own CRM to run it (roots: 5 years building ERP/CRM on Salesforce and Microsoft Navision at Merlion): social enrichment, parsing at scale, lead-to-call pipelines; up to 30 operators worked in it daily; today it is AI-native
@@ -37,7 +38,6 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 
 ## Selected proof
 - 110 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, sqlite-graph-memory, second-brain-starter-kit
-- Agent-governance evals, measured (frozen logs + verify_claims.py, 2026-06-29→07-14): 744 events / 71 proposals; 0 of 17 risky (Tier-2) actions auto-committed without human approval
 - 50+ published items, 136 citations, h-index 7 (verified 2026-08-28); 2 preprints on multi-agent stability (arXiv in progress)
 
 ## Education

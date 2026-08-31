@@ -15,7 +15,7 @@ Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, inc
 
 Co-founded and ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
 
-- Wrote my own CRM to run it (roots: 5 years building ERP/CRM on Salesforce and Microsoft Navision at Merlion): social enrichment, parsing at scale, lead-to-call pipelines; up to 30 operators worked in it daily; today it is AI-native
+- Ran cohorts end-to-end: recruited builders, coached founders, matched advisors; enterprise advisory for subsidiaries of Foxconn and ANA Airlines
 - community organizer since 2019: Moscow Cryptoeconomics Research Group meetups → Silicon Valley crypto meetups (Crypto Mondays)
 - Designed one of the first detailed frameworks for a national government to issue its own stablecoins (regulatory + token-economic design)
 

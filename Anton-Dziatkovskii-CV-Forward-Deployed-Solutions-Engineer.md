@@ -16,7 +16,6 @@ Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, inc
 Co-founded and ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
 
 - Superconnector as a system: founders, builders, engineers and investors matched daily — and every repeatable connector motion (enrichment, matching, follow-up) automated, first with a self-built CRM, today with AI agents
-- In fundraising since 2017: $35M fund under management, syndicate of 250 VCs/angels; helped portfolio startups raise end-to-end — deck, investor intros, term negotiation
 - Built a deal-flow machine: 10,000+ founder calls and 2,000+ institutional-investor calls; qualified, enriched investor base across the US, Japan, Korea, China, Australia and Europe
 - Wrote my own CRM to run it (roots: 5 years building ERP/CRM on Salesforce and Microsoft Navision at Merlion): social enrichment, parsing at scale, lead-to-call pipelines; up to 30 operators worked in it daily; today it is AI-native
 - Ran cohorts end-to-end: recruited builders, coached founders, matched advisors; enterprise advisory for subsidiaries of Foxconn and ANA Airlines

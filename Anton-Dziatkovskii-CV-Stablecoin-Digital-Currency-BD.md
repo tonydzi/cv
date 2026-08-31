@@ -3,7 +3,7 @@
 https://tonydzi.github.io/ · github.com/tonydzi · a@platinum.fund · Palo Alto, CA – Lisbon, PT / US O-1
 
 ## Summary
-Stablecoins are not new territory for me: in 2018 I worked with banks and governments in Myanmar, Cambodia, Thailand and Australia (incl. CB Bank in Myanmar and central-bank stakeholders) on frameworks to launch their first stablecoins — years before the current wave. Built my own stablecoin project (QDAO, 2019: governance token over collateralized fiat-backed stables). At Everex wrote smart contracts and led government/bank relations on crypto-payment structuring. Today I add an AI-native operator layer: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. US O-1 visa (active) — authorized to work in the US, no lottery needed; open to relocation (SF Bay Area base network) or remote
+Stablecoins are not new territory for me: in 2018 I worked with banks and governments in Myanmar, Cambodia, Thailand and Australia (incl. CB Bank in Myanmar and central-bank stakeholders) on frameworks to launch their first stablecoins — years before the current wave. Built my own stablecoin project (QDAO, 2019: governance token over collateralized fiat-backed stables). At Everex wrote smart contracts and led government/bank relations on crypto-payment structuring. Fluent in the 2026 agenda: stablecoins as collateral and margin on perp-DEXes (USDe/USDH-class yield-bearing designs), issuer economics, reserve and treasury mechanics. Today I add an AI-native operator layer: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. US O-1 visa (active) — authorized to work in the US, no lottery needed; open to relocation (SF Bay Area base network) or remote
 
 ## Experience
 
@@ -39,6 +39,8 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 ## Selected proof
 - 110 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, sqlite-graph-memory, second-brain-starter-kit
 - 50+ published items, 136 citations, h-index 7 (verified 2026-08-28); 2 preprints on multi-agent stability (arXiv in progress)
+- Measured agent-fleet reliability evals published (07.2026): 0/17 Tier-2 (high-risk) actions slipped past the human approval gate in recorded runs; failure modes documented in public (FAILURE-MODES.md)
+- Audience & network: 169k-subscriber Telegram channel (@PaloAltoAi) + 500+ AI-practitioner community in Palo Alto; a decade of Japan/Korea startup-community depth; enterprise advisory for Foxconn and ANA Airlines subsidiaries
 
 ## Education
 
@@ -47,4 +49,4 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 - BSc, Computer and Information Sciences, National Research Nuclear University MEPhI
 
 ## Keywords
-stablecoin, digital currency, CBDC, payments, tokenization, issuer, regulatory, government relations, treasury, DeFi, compliance
+stablecoin, digital currency, CBDC, payments, tokenization, issuer, regulatory, government relations, treasury, DeFi, compliance, perp collateral

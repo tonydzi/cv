@@ -3,7 +3,7 @@
 https://tonydzi.github.io/ · github.com/tonydzi · a@platinum.fund · Palo Alto, CA – Lisbon, PT / US O-1
 
 ## Summary
-MSc in Computer & Information Systems Security (MEPhI, cryptography); smart-contract audit background; today I build guardrails for production agent fleets: agent-leash, verbatim-citation-gate (catches fabricated RAG citations), three-circuit homeostatic governance (preprint). I run the attack surface I defend: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. US O-1 visa (active) — authorized to work in the US, no lottery needed; open to relocation (SF Bay Area base network) or remote
+MSc in Computer & Information Systems Security (MEPhI, cryptography); smart-contract audit background and anti-fraud instincts from a decade in adversarial crypto markets (exchange infrastructure, market-maker engines); today I build guardrails for production agent fleets: agent-leash, verbatim-citation-gate (catches fabricated RAG citations), three-circuit homeostatic governance (preprint). I run the attack surface I defend: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. US O-1 visa (active) — authorized to work in the US, no lottery needed; open to relocation (SF Bay Area base network) or remote
 
 ## Experience
 
@@ -34,6 +34,8 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 ## Selected proof
 - 110 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, sqlite-graph-memory, second-brain-starter-kit
 - 50+ published items, 136 citations, h-index 7 (verified 2026-08-28); 2 preprints on multi-agent stability (arXiv in progress)
+- Measured agent-fleet reliability evals published (07.2026): 0/17 Tier-2 (high-risk) actions slipped past the human approval gate in recorded runs; failure modes documented in public (FAILURE-MODES.md)
+- Audience & network: 169k-subscriber Telegram channel (@PaloAltoAi) + 500+ AI-practitioner community in Palo Alto; a decade of Japan/Korea startup-community depth; enterprise advisory for Foxconn and ANA Airlines subsidiaries
 
 ## Education
 

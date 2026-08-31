@@ -1,15 +1,11 @@
-# Anton Dziatkovskii — Technical PM / AI Product / Founding GTM
+# Anton Dziatkovskii — Capital Formation / Investor Relations / Capital Markets (Crypto & AI)
 
 https://tonydzi.github.io/ · github.com/tonydzi · a@platinum.fund · Palo Alto, CA – Lisbon, PT / US O-1
 
 ## Summary
-Launching products from scratch is my default mode: 7+ years venture founder, first non-engineer hire material — I own problem framing, architecture decisions, evaluation and GTM while engineers (human or AI) implement. Current proof: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. US O-1 visa (active) — authorized to work in the US, no lottery needed; open to relocation (SF Bay Area base network) or remote
+I raise, syndicate and route capital: co-founder of Platinum VC & Incubator — $35M fund under management, syndicate of 250 VCs/angels; 2,000+ institutional-investor calls behind a qualified, enriched investor base across the US, Japan, Korea, China, Australia and Europe; advisor to enterprise subsidiaries of Foxconn and ANA Airlines. Comfortable on both sides of the table: helped portfolio startups raise end-to-end (deck, investor intros, term negotiation) and structured crypto payments and stablecoins with banks and governments in SE Asia. Today my IR operations run on an AI-native layer: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. US O-1 visa (active) — authorized to work in the US, no lottery needed; open to relocation (SF Bay Area base network) or remote
 
 ## Experience
-
-**Founder — Palo Alto AI Research Lab** (2023 – now)
-
-Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 **Co-Founder — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
 
@@ -20,17 +16,20 @@ Co-founded and ran a startup incubator + software house in APAC since 2015 (11 y
 - Built a deal-flow machine: 10,000+ founder calls and 2,000+ institutional-investor calls; qualified, enriched investor base across the US, Japan, Korea, China, Australia and Europe
 - Wrote my own CRM to run it (roots: 5 years building ERP/CRM on Salesforce and Microsoft Navision at Merlion): social enrichment, parsing at scale, lead-to-call pipelines; up to 30 operators worked in it daily; today it is AI-native
 - Ran cohorts end-to-end: recruited builders, coached founders, matched advisors; enterprise advisory for subsidiaries of Foxconn and ANA Airlines
-- Shipped crypto-exchange infrastructure: cryptocurrency backends, market-maker engines, high-frequency trading systems; partnerships with hedge funds, market makers, brokers
 - Designed one of the first detailed frameworks for a national government to issue its own stablecoins (regulatory + token-economic design)
 - Managed a distributed engineering org of 40+ developers across APAC as product owner
-
-**Sales Director / CRM-ERP Development Director (Microsoft Navision, Salesforce) — Merlion** (2006 – 2015)
-
-One of the largest private IT distributors in Eastern Europe. Built ERP and CRM systems on Microsoft Navision and Salesforce (5 years) — where I learned that deal flow runs on CRM quality.
 
 **Chief Engineer, Lending & Risk Management — Everex (Singapore)** (2017 – 2018)
 
 Wrote smart contracts and led government/bank relations across SE Asia on structuring crypto payments and stablecoins; blockchain credit scoring, stable-value payments.
+
+**Founder — Palo Alto AI Research Lab** (2023 – now)
+
+Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), the operating manual written day by day (相棒 AIBŌ · The Partner).
+
+**Sales Director / CRM-ERP Development Director (Microsoft Navision, Salesforce) — Merlion** (2006 – 2015)
+
+One of the largest private IT distributors in Eastern Europe. Built ERP and CRM systems on Microsoft Navision and Salesforce (5 years) — where I learned that deal flow runs on CRM quality.
 
 **CRM Developer Intern — CRM/ERP consulting (Salesforce ecosystem)** (2004 – 2006)
 
@@ -49,4 +48,4 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 - BSc, Computer and Information Sciences, National Research Nuclear University MEPhI
 
 ## Keywords
-technical product manager, AI product, founding team, GTM, zero to one, roadmap, evals, agents, B2B, startup
+head of capital formation, investor relations, capital markets, head of platform, venture partner, operating partner, LP relations, syndicate, fundraising, token strategy, institutional partnerships, deal flow, IR

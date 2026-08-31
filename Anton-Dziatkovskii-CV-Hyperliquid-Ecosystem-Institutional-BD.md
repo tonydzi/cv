@@ -3,7 +3,7 @@
 https://tonydzi.github.io/ · github.com/tonydzi · a@platinum.fund · Palo Alto, CA – Lisbon, PT / US O-1
 
 ## Summary
-I bring institutional capital and market-maker flow into trading ecosystems — and I ship on the platform myself. Owner-level relationships with market makers, hedge funds, brokers and exchanges built over a decade of servicing them; shipped crypto-exchange infrastructure hands-on (cryptocurrency backends, market-maker engines, high-frequency trading systems) and consulted startups building exchanges and perpetuals venues. Fluent in how a perp-DEX ecosystem actually monetizes: deployer economics (HIP-3-style capital-backed markets), builder-code distribution, vault/LP capital, prime-broker onboarding, KYC/KYB bilateral credit. On top of that — an AI-native operator layer: a production multi-machine Claude fleet (6 machines) run in public with published evals, so risk dashboards, monitoring and CRM-driven origination come built-in. US O-1 visa (active) — authorized to work in the US, no lottery needed; open to relocation (SF Bay Area base network) or remote
+I bring institutional capital and market-maker flow into trading ecosystems — and I ship on the platform myself. Owner-level relationships with market makers, hedge funds, brokers and exchanges built over a decade of servicing them; shipped crypto-exchange infrastructure hands-on (cryptocurrency backends, market-maker engines, high-frequency trading systems) and consulted startups building exchanges and perpetuals venues. Fluent in how a perp-DEX ecosystem actually monetizes: deployer economics (HIP-3-style capital-backed markets), builder-code distribution, vault/LP capital, prime-broker onboarding, KYC/KYB bilateral credit. On top of that — an AI-native operator layer: a production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines — with published evals, so risk dashboards, monitoring and CRM-driven origination come built-in. US O-1 visa (active) — authorized to work in the US, no lottery needed; open to relocation (SF Bay Area base network) or remote
 
 ## What I do for an ecosystem team (90-day shape)
 - Institutional onboarding pipeline: qualified conversations with funds, custodians, market makers and credit desks — tracked weekly in CRM, measured by meetings held and capital onboarded, not by reach
@@ -40,6 +40,8 @@ One of the largest private IT distributors in Eastern Europe. Built ERP and CRM 
 ## Selected proof
 - 110 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, sqlite-graph-memory, second-brain-starter-kit
 - 50+ published items, 136 citations, h-index 7 (verified 2026-08-28); 2 preprints on multi-agent stability (arXiv in progress)
+- Measured agent-fleet reliability evals published (07.2026): 0/17 Tier-2 (high-risk) actions slipped past the human approval gate in recorded runs; failure modes documented in public (FAILURE-MODES.md)
+- Audience & network: 169k-subscriber Telegram channel (@PaloAltoAi) + 500+ AI-practitioner community in Palo Alto; a decade of Japan/Korea startup-community depth; enterprise advisory for Foxconn and ANA Airlines subsidiaries
 
 ## Education
 

@@ -3,7 +3,7 @@
 https://tonydzi.github.io/ · github.com/tonydzi · a@platinum.fund · Palo Alto, CA – Lisbon, PT / US O-1
 
 ## Summary
-I decide *what* to deploy, *where agents actually pay off*, and *how to prove it* — then run the deployment myself. Daily driver: a production multi-machine Claude fleet (6 machines) operated in public — consensus, CRM, persistent memory, 100+ automation routines — with published evals and failure modes. Not a classical SWE: an operator-strategist who translates a real business (fund, incubator, CRM-driven outreach) into working agent systems end-to-end, and can sit in front of a customer or a regulator: 15+ years founder/BD background, incl. structuring crypto payments and stablecoins with banks and governments in SE Asia — adversarial, compliance-heavy environments. US O-1 visa (active) — authorized to work in the US, no lottery needed; open to relocation (SF Bay Area base network) or remote
+I decide *what* to deploy, *where agents actually pay off*, and *how to prove it* — then run the deployment myself. Daily driver: a production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines — with published evals and failure modes. Not a classical SWE: an operator-strategist who translates a real business (fund, incubator, CRM-driven outreach) into working agent systems end-to-end, and can sit in front of a customer or a regulator: 15+ years founder/BD background, incl. structuring crypto payments and stablecoins with banks and governments in SE Asia — adversarial, compliance-heavy environments. US O-1 visa (active) — authorized to work in the US, no lottery needed; open to relocation (SF Bay Area base network) or remote
 
 ## Experience
 
@@ -38,6 +38,8 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 ## Selected proof
 - 110 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, sqlite-graph-memory, second-brain-starter-kit
 - 50+ published items, 136 citations, h-index 7 (verified 2026-08-28); 2 preprints on multi-agent stability (arXiv in progress)
+- Measured agent-fleet reliability evals published (07.2026): 0/17 Tier-2 (high-risk) actions slipped past the human approval gate in recorded runs; failure modes documented in public (FAILURE-MODES.md)
+- Audience & network: 169k-subscriber Telegram channel (@PaloAltoAi) + 500+ AI-practitioner community in Palo Alto; a decade of Japan/Korea startup-community depth; enterprise advisory for Foxconn and ANA Airlines subsidiaries
 
 ## Education
 

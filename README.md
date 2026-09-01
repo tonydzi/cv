@@ -1,4 +1,4 @@
-# CV variants — one person, twelve packagings
+# CV variants — one person, thirteen packagings
 
 Single source of truth: [resume.json](https://tonydzi.github.io/resume.json). Same facts, different emphasis per role cluster. Built in public, like everything else here.
 
@@ -14,3 +14,4 @@ Single source of truth: [resume.json](https://tonydzi.github.io/resume.json). Sa
 - [Ecosystem Growth / Head of Ecosystem (Crypto × AI)](Anton-Dziatkovskii-CV-Ecosystem-Growth-Head-of-Ecosystem.md)
 - [Institutional Onboarding / Ecosystem BD (Hyperliquid & Perp-DEX Ecosystems)](Anton-Dziatkovskii-CV-Hyperliquid-Ecosystem-Institutional-BD.md)
 - [Capital Formation / Investor Relations / Capital Markets (Crypto & AI)](Anton-Dziatkovskii-CV-Capital-Formation-Investor-Relations.md)
+- [Startup Ecosystem / Accelerator & Incubator Programs](Anton-Dziatkovskii-CV-Startup-Ecosystem-Accelerators.md)

@@ -27,7 +27,7 @@ Co-founded and ran a startup incubator + software house in APAC since 2015 (11 y
 
 **Founder — Palo Alto AI Research Lab** (2023 – now)
 
-Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), the operating manual written day by day (相棒 AIBŌ · The Partner).
+Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 **Chief Engineer, Lending & Risk Management — Everex (Singapore)** (2017 – 2018)
 
@@ -38,7 +38,7 @@ Wrote smart contracts and led government/bank relations across SE Asia on struct
 One of the largest private IT distributors in Eastern Europe. Built ERP and CRM systems on Microsoft Navision and Salesforce (5 years) — where I learned that deal flow runs on CRM quality.
 
 ## Selected proof
-- 110 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, sqlite-graph-memory, second-brain-starter-kit
+- 115 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, agent-control-plane-casebook, sqlite-graph-memory, second-brain-starter-kit
 - 50+ published items, 136 citations, h-index 7 (verified 2026-08-28); 2 preprints on multi-agent stability (arXiv in progress)
 - Measured agent-fleet reliability evals published (07.2026): 0/17 Tier-2 (high-risk) actions slipped past the human approval gate in recorded runs; failure modes documented in public (FAILURE-MODES.md)
 - Audience & network: 169k-subscriber Telegram channel (@PaloAltoAi) + 500+ AI-practitioner community in Palo Alto, the heart of Silicon Valley; Silicon Valley network built on the ground plus a decade of Japan/Korea startup-community depth; enterprise advisory for Foxconn and ANA Airlines subsidiaries

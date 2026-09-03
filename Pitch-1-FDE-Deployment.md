@@ -27,6 +27,6 @@ tonydzi.github.io · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp 
 
 - **Regulated-finance fluency:** structured crypto payments and stablecoins with banks and governments in SE Asia (Everex, Singapore); designed one of the first detailed frameworks for a national government to issue its own stablecoins.
 - **Customer-facing by trade:** 15+ years founder/BD — I can sit in front of a customer, an engineer, or a regulator in the same week.
-- **Ship-and-prove culture:** 110 public repos (claw-consensus, verbatim-citation-gate, agent-leash), 50+ publications, h-index 7, 2 preprints on multi-agent stability.
+- **Ship-and-prove culture:** 115 public repos (claw-consensus, verbatim-citation-gate, agent-leash, agent-control-plane-casebook), 50+ publications, h-index 7, 2 preprints on multi-agent stability.
 
 **Ask:** FDE / Solutions / Deployment role where the job is putting agents into a customer's real workflow and proving they held. O-1 active plus EU citizenship (Polish passport) — no lottery, no sponsorship needed in the US or the EU; SF Bay Area network in place; ready to relocate.

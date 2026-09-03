@@ -1,6 +1,6 @@
 # Anton Dziatkovskii — Ecosystem Growth / Head of Ecosystem (Crypto × AI)
 
-https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · Palo Alto, CA – Lisbon, PT / US O-1 · EU citizen (Poland)
+https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA – Lisbon, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
 A decade running ecosystem functions hands-on: developer activation for a frontier platform (Solidity curricula, hackathons, cohorts) back when smart contracts were where LLM agents are now; incubator cohorts end-to-end; community organizing from Moscow research meetups to Silicon Valley Crypto Mondays; owner-level relationships with market makers, hedge funds, brokers and investors built over a decade of servicing them. Today I run the same playbook on the AI side: a 500+ community of AI practitioners and a production multi-machine Claude fleet built in public. I connect capital ↔ builders ↔ liquidity ↔ partnerships — and I ship on the platform myself. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote

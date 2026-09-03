@@ -1,6 +1,6 @@
 # Anton Dziatkovskii — Developer Relations / Developer Advocate
 
-https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · Palo Alto, CA – Lisbon, PT / US O-1 · EU citizen (Poland)
+https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA – Lisbon, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
 I did developer activation for a frontier platform before — when smart contracts were where LLM agents are now: Solidity curricula, hackathons, cohorts, scaled a distributed engineering org to 40+ developers across APAC. Today I build with Claude in public daily (115 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, agent-control-plane-casebook, sqlite-graph-memory, second-brain-starter-kit) and write the operating manual as I go (相棒 AIBŌ · The Partner). PhD, 50+ published items, 136 citations, h-index 7 (verified 2026-08-28); 2 preprints on multi-agent stability (arXiv in progress). US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote

@@ -1,6 +1,6 @@
 # Anton Dziatkovskii — AI Agent Security / Safety Engineering (applied)
 
-https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · Palo Alto, CA – Lisbon, PT / US O-1 · EU citizen (Poland)
+https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA – Lisbon, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
 MSc in Computer & Information Systems Security (MEPhI, cryptography); smart-contract audit background and anti-fraud instincts from a decade in adversarial crypto markets (exchange infrastructure, market-maker engines); today I build guardrails for production agent fleets: agent-leash, verbatim-citation-gate (catches fabricated RAG citations), agent-control-plane-casebook (reproducible control-plane failure cases, each with a deterministic repro and an upstream bug report), three-circuit homeostatic governance (preprint). I run the attack surface I defend: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote

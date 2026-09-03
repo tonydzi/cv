@@ -9,7 +9,7 @@ targets: [Asymptote Founding DevRel, Ripple Ecosystem Growth, Velocity, White Ci
 
 # Anton Dziatkovskii — Technical GTM / Ecosystem / DevRel
 
-tonydzi.github.io · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · Palo Alto, CA (Silicon Valley) / US O-1 (active) · EU citizen (Poland)
+tonydzi.github.io · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA (Silicon Valley) / US O-1 (active) · EU citizen (Poland)
 
 **One line:** I've spent a decade activating developers on frontier platforms — Solidity when smart contracts were where LLM agents are now, agents today — and I ship on the platform myself, in public.
 
@@ -19,7 +19,7 @@ tonydzi.github.io · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp 
 
 **Built the engine.** A build-in-public pipeline run by the agents themselves: daily posts mined from real work (win of the day, failure of the day, ask of the day), a daily engineering devlog for robots and a human longread, all fed from actual run artifacts — never invented. Plus the long-form layer: an operating manual written day by day (相棒 AIBŌ · The Partner) and 2 preprints on multi-agent stability.
 
-**Deployed it.** 115 public repos (claude-bible — most-starred, claw-consensus with reproducible offline demo, verbatim-citation-gate, agent-leash, agent-control-plane-casebook with reproducible control-plane failure cases, second-brain-starter-kit with 101 skills); a 169k-subscriber Telegram channel (@PaloAltoAi); a 500+ AI-practitioner community in Palo Alto including Stanford researchers and big-tech engineers.
+**Deployed it.** 110 public repos (claude-bible — most-starred, claw-consensus with reproducible offline demo, verbatim-citation-gate, agent-leash, second-brain-starter-kit with 101 skills); a 169k-subscriber Telegram channel (@PaloAltoAi); a 500+ AI-practitioner community in Palo Alto including Stanford researchers and big-tech engineers.
 
 **Measured it.** Inbound engineer contributions answered within 24h as policy; published evals and FAILURE-MODES.md as trust artifacts; community and channel growth tracked, not estimated. 50+ publications, 136 citations, h-index 7 (verified 08.2026).
 

@@ -9,7 +9,7 @@ targets: [Coastal Head of Product AI & Stablecoin, Tennr AI Operations Lead, Rai
 
 # Anton Dziatkovskii — AI Operations / Product
 
-tonydzi.github.io · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · Palo Alto, CA (Silicon Valley) / US O-1 (active) · EU citizen (Poland)
+tonydzi.github.io · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA (Silicon Valley) / US O-1 (active) · EU citizen (Poland)
 
 **One line:** I turn "we should use AI for this" into an operated system with owners, gates, counters, and a kill-switch — and I've been doing it on a live org for three years.
 

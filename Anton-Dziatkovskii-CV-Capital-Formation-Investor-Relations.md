@@ -1,6 +1,6 @@
 # Anton Dziatkovskii — Capital Formation / Investor Relations / Capital Markets (Crypto & AI)
 
-https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · Palo Alto, CA – Lisbon, PT / US O-1 · EU citizen (Poland)
+https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA – Lisbon, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
 I raise, syndicate and route capital: co-founder of Platinum VC & Incubator — $35M fund under management, syndicate of 250 VCs/angels; 2,000+ institutional-investor calls behind a qualified, enriched investor base across the US, Japan, Korea, China, Australia and Europe; advisor to enterprise subsidiaries of Foxconn and ANA Airlines. Comfortable on both sides of the table: helped portfolio startups raise end-to-end (deck, investor intros, term negotiation) and structured crypto payments and stablecoins with banks and governments in SE Asia. Today my IR operations run on an AI-native layer: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote

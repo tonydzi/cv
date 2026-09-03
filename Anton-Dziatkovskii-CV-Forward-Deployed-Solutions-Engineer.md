@@ -1,6 +1,6 @@
 # Anton Dziatkovskii — Forward-Deployed / AI Deployment Engineer (Solutions)
 
-https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · Palo Alto, CA – Lisbon, PT / US O-1 · EU citizen (Poland)
+https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA – Lisbon, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
 I deploy AI into messy real-world environments every day: I run a production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. Not a classical SWE — an operator who ships working agent systems end-to-end (MCP connectors, RAG over a 10-year knowledge base, CRM automation, evals) and can sit in front of a customer or a regulator: 15+ years founder/BD background, incl. structuring crypto payments and stablecoins with banks and governments in SE Asia — adversarial, compliance-heavy environments. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote

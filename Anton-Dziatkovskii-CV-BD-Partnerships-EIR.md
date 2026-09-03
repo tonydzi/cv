@@ -1,6 +1,6 @@
 # Anton Dziatkovskii — BD / Partnerships / EIR / Venture
 
-https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · Palo Alto, CA – Lisbon, PT / US O-1 · EU citizen (Poland)
+https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA – Lisbon, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
 Co-founder of Platinum VC & Incubator: $35M fund under management, syndicate of 250 VCs/angels; incubated and fundraised for portfolio startups; advisor to enterprise subsidiaries of Foxconn and ANA Airlines; scaled a distributed engineering org to 40+ developers across APAC. Now applying that operator network to the AI ecosystem — a superconnector who connects engineers, investors and enterprises, and automates his own connector work with AI agents. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote

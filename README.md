@@ -15,3 +15,9 @@ Single source of truth: [resume.json](https://tonydzi.github.io/resume.json). Sa
 - [Institutional Onboarding / Ecosystem BD (Hyperliquid & Perp-DEX Ecosystems)](Anton-Dziatkovskii-CV-Hyperliquid-Ecosystem-Institutional-BD.md)
 - [Capital Formation / Investor Relations / Capital Markets (Crypto & AI)](Anton-Dziatkovskii-CV-Capital-Formation-Investor-Relations.md)
 - [Startup Ecosystem / Accelerator & Incubator Programs](Anton-Dziatkovskii-CV-Startup-Ecosystem-Accelerators.md)
+
+## One-pagers (pitch)
+
+- [Forward-Deployed / AI Deployment](Pitch-1-FDE-Deployment.md)
+- [AI Operations / Product](Pitch-2-AI-Operations-Product.md)
+- [Technical GTM / Ecosystem / DevRel](Pitch-3-Technical-GTM-Ecosystem.md)

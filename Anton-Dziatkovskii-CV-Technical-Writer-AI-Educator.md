@@ -1,6 +1,6 @@
 # Anton Dziatkovskii — Technical Writer / AI Educator / Evals & Research-adjacent
 
-https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA – Lisbon, PT / US O-1 · EU citizen (Poland)
+https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA (Silicon Valley) – Sintra, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
 PhD + practitioner: 50+ published items, 136 citations, h-index 7 (verified 2026-08-28); 2 preprints on multi-agent stability (arXiv in progress). Designed and taught Solidity curricula; writing a book on human-AI collaboration (相棒 AIBŌ · The Partner) while running a production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. I turn messy frontier practice into reproducible docs, evals and courses. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote

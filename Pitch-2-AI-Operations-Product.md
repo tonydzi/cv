@@ -4,12 +4,13 @@ stage: raw
 title: "Pitch 2/3 — AI Operations / Product (one-pager)"
 date_established: 2026-09-01
 origin: decision-2026-09-01-hiring-vs-new-venture
+generated_by: cv_forge.py  # руками не править, правка уедет при перегенерации
 targets: [Coastal Head of Product AI & Stablecoin, Tennr AI Operations Lead, Rain, Fin, Euphoric FD AI PM, Kraken Principal BizOps AI Automation]
 ---
 
 # Anton Dziatkovskii — AI Operations / Product
 
-tonydzi.github.io · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA (Silicon Valley) / US O-1 (active) · EU citizen (Poland)
+https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA (Silicon Valley) – Sintra, PT / US O-1 (active) · EU citizen (Poland)
 
 **One line:** I turn "we should use AI for this" into an operated system with owners, gates, counters, and a kill-switch — and I've been doing it on a live org for three years.
 
@@ -25,7 +26,7 @@ tonydzi.github.io · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp 
 
 ## Why this transfers
 
-- **Zero-to-one is my default mode:** 7+ years venture founder; first non-engineer hire material — I own problem framing, architecture decisions, evals, and GTM while engineers (human or AI) implement.
+- **Zero-to-one is my default mode:** 10+ years venture founder (since 2015); first non-engineer hire material — I own problem framing, architecture decisions, evals, and GTM while engineers (human or AI) implement.
 - **Ops at scale before AI:** built ERP/CRM on Salesforce and MS Navision for one of Eastern Europe's largest IT distributors; ran a 40+ engineer org across APAC as product owner.
 - **Regulated-finance context:** stablecoin frameworks for a national government; bank/government relations in SE Asia.
 

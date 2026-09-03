@@ -1,6 +1,6 @@
 # Anton Dziatkovskii — Startup Ecosystem / Accelerator & Incubator Programs
 
-https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA – Lisbon, PT / US O-1 · EU citizen (Poland)
+https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA (Silicon Valley) – Sintra, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
 Ten years running a startup incubator hands-on: deal flow, cohorts, founder coaching, advisor matching, fundraising — the job a partner at 500 Startups or Plug and Play does, done daily at a boutique APAC incubator with rare depth in the Japanese and Korean startup communities. 10,000+ founder calls, 2,000+ institutional-investor calls, a syndicate of 250 VCs/angels, $35M fund under management. Equally at home with AI and crypto startups: today I run an AI-native research lab on a production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines; before that, a portfolio that was ~70% crypto. Looking to run or grow a startup program — accelerator, incubator, foundation grants/ecosystem arm, or a startups team inside an AI or crypto company. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote

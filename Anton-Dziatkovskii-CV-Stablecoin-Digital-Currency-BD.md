@@ -1,6 +1,6 @@
 # Anton Dziatkovskii — Stablecoin / Digital-Currency Strategy & BD
 
-https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA – Lisbon, PT / US O-1 · EU citizen (Poland)
+https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA (Silicon Valley) – Sintra, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
 Stablecoins are not new territory for me: in 2018 I worked with banks and governments in Myanmar, Cambodia, Thailand and Australia (incl. CB Bank in Myanmar and central-bank stakeholders) on frameworks to launch their first stablecoins — years before the current wave. Built my own stablecoin project (QDAO, 2019: governance token over collateralized fiat-backed stables). At Everex wrote smart contracts and led government/bank relations on crypto-payment structuring. Fluent in the 2026 agenda: stablecoins as collateral and margin on perp-DEXes (USDe/USDH-class yield-bearing designs), issuer economics, reserve and treasury mechanics. Today I add an AI-native operator layer: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote

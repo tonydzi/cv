@@ -37,7 +37,7 @@ One of the largest private IT distributors in Eastern Europe. Built ERP and CRM 
 First professional years: CRM systems development in the Salesforce/ERP ecosystem.
 
 ## Selected proof
-- Upstream contributions merged into 14 third-party engineering projects since 07.2026 (23 PRs, verified 2026-09-04): Model Context Protocol Go SDK, UK AISI inspect_ai, QwenLM/qwen-code, google-gemini/cookbook, fastmcp, agno, pydantic/logfire, haystack-integrations, zilliztech/memsearch — plus 52 issues filed with deterministic reproductions and red-first regression tests; two adopted by Google's ADK team
+- Evidence-first OSS reliability work in the AI-agent ecosystem: mutation-tested reviews of other people's PRs and bug reports carrying a deterministic repro plus a regression test shown failing on the unfixed code. google/adk-python#6957 — author adopted all three review findings in 6h («genuinely one of the most useful reviews I've gotten on this PR»); #6887 fixed upstream from our report; credited in headroom v2.0.8 release notes. Scope since 07.2026 (verified 2026-09-04): merged into 14 third-party engineering projects (MCP Go SDK, UK AISI inspect_ai, QwenLM/qwen-code, google-gemini/cookbook, fastmcp, agno, pydantic/logfire) + 52 issues with reproductions
 - 115 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, agent-control-plane-casebook, sqlite-graph-memory, second-brain-starter-kit
 - 50+ published items, 136 citations, h-index 7 (verified 2026-08-28); 2 preprints on multi-agent stability (arXiv in progress)
 - Measured agent-fleet reliability evals published (07.2026): 0/17 Tier-2 (high-risk) actions slipped past the human approval gate in recorded runs; failure modes documented in public (FAILURE-MODES.md)

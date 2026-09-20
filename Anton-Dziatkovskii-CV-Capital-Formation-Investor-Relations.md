@@ -7,7 +7,7 @@ I raise, syndicate and route capital: co-founder of Platinum VC & Incubator — 
 
 ## Experience
 
-**Co-Founder — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
+**COO / CTO (hired executive) — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
 
 Co-founded and ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in Silicon Valley and even the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
 
@@ -23,13 +23,13 @@ Co-founded and ran a startup incubator + software house in APAC since 2015 (11 y
 
 Wrote smart contracts and led government/bank relations across SE Asia on structuring crypto payments and stablecoins; blockchain credit scoring, stable-value payments.
 
-**Founder — Palo Alto AI Research Lab** (2023 – now)
+**Operating Lead — Palo Alto AI Research Lab** (2023 – now)
 
 Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
-**Sales Director / CRM-ERP Development Director (Microsoft Navision, Salesforce) — Merlion** (2006 – 2015)
+**Sales Director, compute hardware (Southeast Europe) / CRM-ERP Development Director (Microsoft Navision, Salesforce) — Merlion** (2006 – 2015)
 
-One of the largest private IT distributors in Eastern Europe. Built ERP and CRM systems on Microsoft Navision and Salesforce (5 years) — where I learned that deal flow runs on CRM quality.
+One of the largest private IT distributors in Eastern Europe. Enterprise and B2B sales of computing hardware across Southeast Europe, and the ERP and CRM systems the sales floor ran on (Microsoft Navision and Salesforce, 5 years), where I learned that deal flow runs on CRM quality.
 
 **CRM Developer Intern — CRM/ERP consulting (Salesforce ecosystem)** (2004 – 2006)
 

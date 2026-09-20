@@ -1,9 +1,9 @@
-# Anton Dziatkovskii — Technical PM / AI Product / Product Lead
+# Anton Dziatkovskii — AI Compute / GPU Infrastructure — Enterprise Sales & BD
 
 https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA (Silicon Valley) – Sintra, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
-I run the full product cycle myself: find the expensive workflow, prototype it on LLM APIs, take it to production, then prove quality on real runs. Current proof: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines, with published evals and documented failure modes. Engineer by training (Python, C++) and a hired operating executive for eleven years, so I can own problem framing, architecture trade-offs, evaluation and GTM in the same week. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote
+I sold compute hardware before I started buying it: 2006-2015 at one of Eastern Europe's largest IT distributors, moving chips, memory, GPUs and CPUs to B2B and enterprise buyers, ~$5M/month personally inside a department running $15M to $25M/month, with Southeast Europe as my territory. Today I sit on the other side of that same trade: I run a production multi-machine Claude fleet in public and consume compute every day, local GPU inference plus multi-vendor LLM spend, so I can talk to a buyer about capacity, procurement and cluster economics and still read the workload they intend to run on it. Eleven years as a hired operating executive (COO/CTO) in between, carrying revenue and delivery. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote
 
 ## Experience
 
@@ -11,22 +11,27 @@ I run the full product cycle myself: find the expensive workflow, prototype it o
 
 Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
-**COO / CTO (hired executive), product owner — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
+- Run a production multi-machine Claude fleet (6 machines) in public: consensus, persistent memory, CRM automation, 100+ autonomous routines, published evals and documented failure modes
+- Day-to-day consumer of compute: local GPU inference for embeddings, reranking and transcription, plus multi-vendor LLM API spend routed across subscriptions by cost
 
-Hired operating executive (COO/CTO) at a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). Product owner for a distributed engineering org across APAC: exchange backends, market-maker engines and the in-house CRM the whole firm worked in daily. Portfolio ~70% crypto / 30% other, AI startups included.
+**COO / CTO (hired executive) — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
+
+Hired operating executive (COO/CTO) at a startup incubator + software house in APAC since 2015 (11 years). Ran the commercial motion end to end: deal flow, enterprise advisory for subsidiaries of Foxconn and ANA Airlines, fundraising, and a distributed engineering org of 40+ developers across APAC as product owner.
 
 - Superconnector as a system: founders, builders, engineers and investors matched daily — and every repeatable connector motion (enrichment, matching, follow-up) automated, first with a self-built CRM, today with AI agents
 - In fundraising since 2017: $35M fund under management, syndicate of 250 VCs/angels; helped portfolio startups raise end-to-end — deck, investor intros, term negotiation
-- Built a deal-flow machine: 10,000+ founder calls and 2,000+ institutional-investor calls; qualified, enriched investor base across the US, Japan, Korea, China, Australia and Europe
-- Wrote my own CRM to run it (roots: 5 years building ERP/CRM on Salesforce and Microsoft Navision at Merlion): social enrichment, parsing at scale, lead-to-call pipelines; up to 30 operators worked in it daily; today it is AI-native
 - Ran cohorts end-to-end: recruited builders, coached founders, matched advisors; enterprise advisory for subsidiaries of Foxconn and ANA Airlines
-- Shipped crypto-exchange infrastructure: cryptocurrency backends, market-maker engines, high-frequency trading systems; partnerships with hedge funds, market makers, brokers
-- Designed one of the first detailed frameworks for a national government to issue its own stablecoins (regulatory + token-economic design)
+- Built a deal-flow machine: 10,000+ founder calls and 2,000+ institutional-investor calls; qualified, enriched customer and investor base across the US, Japan, Korea, China, Australia and Europe
 - Managed a distributed engineering org of 40+ developers across APAC as product owner
 
 **Sales Director, compute hardware (Southeast Europe) / CRM-ERP Development Director (Microsoft Navision, Salesforce) — Merlion** (2006 – 2015)
 
-One of the largest private IT distributors in Eastern Europe. Enterprise and B2B sales of computing hardware across Southeast Europe, and the ERP and CRM systems the sales floor ran on (Microsoft Navision and Salesforce, 5 years), where I learned that deal flow runs on CRM quality.
+One of the largest private IT distributors in Eastern Europe. Sold compute hardware to B2B and enterprise buyers: semiconductors and chips, memory, GPUs, CPUs and the rest of the computing stack, with Southeast Europe as my sales territory. In parallel built the ERP and CRM systems the sales floor ran on (Microsoft Navision and Salesforce, 5 years), where I learned that deal flow runs on CRM quality.
+
+- Carried Southeast Europe as sales territory for compute hardware: chips and semiconductors, memory, GPUs, CPUs and adjacent computing equipment, sold B2B and enterprise to customers procuring compute capacity and hardware infrastructure
+- Personal turnover ~$5M per month; the department I sold in ran $15M to $25M per month
+- Sold on a deliberately competitive floor: departments competed against each other for the same enterprise accounts
+- Then built the ERP and CRM that floor ran on (Microsoft Navision, Salesforce, 5 years), roots of the CRM I later wrote from scratch at Platinum
 
 **Chief Engineer, Lending & Risk Management — Everex (Singapore)** (2017 – 2018)
 
@@ -50,4 +55,4 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 - BSc, Computer and Information Sciences, National Research Nuclear University MEPhI
 
 ## Keywords
-technical product manager, AI product, product lead, agent product manager, zero to one, evals, agents, LLM APIs, developer tools, B2B, GTM
+enterprise sales, account executive, AI compute, GPU cloud, hardware sales, semiconductors, data center, infrastructure sales, capacity, technical account manager, solutions architect, distribution, channel, Southeast Europe, EMEA

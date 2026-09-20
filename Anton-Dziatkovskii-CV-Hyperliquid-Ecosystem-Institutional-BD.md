@@ -13,7 +13,7 @@ I bring institutional capital and market-maker flow into trading ecosystems — 
 
 ## Experience
 
-**Co-Founder — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
+**COO / CTO (hired executive) — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
 
 Co-founded and ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). Portfolio focus: exchange/trading infrastructure (~70% crypto), with rare depth in Silicon Valley and even the Japanese and Korean startup communities.
 
@@ -25,7 +25,7 @@ Co-founded and ran a startup incubator + software house in APAC since 2015 (11 y
 - Designed one of the first detailed frameworks for a national government to issue its own stablecoins (regulatory + token-economic design); built my own stablecoin project (QDAO, 2019)
 - Managed a distributed engineering org of 40+ developers across APAC as product owner
 
-**Founder — Palo Alto AI Research Lab** (2023 – now)
+**Operating Lead — Palo Alto AI Research Lab** (2023 – now)
 
 Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
@@ -33,9 +33,9 @@ Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, inc
 
 Wrote smart contracts and led government/bank relations across SE Asia on structuring crypto payments and stablecoins; blockchain credit scoring, stable-value payments.
 
-**Sales Director / CRM-ERP Development Director (Microsoft Navision, Salesforce) — Merlion** (2006 – 2015)
+**Sales Director, compute hardware (Southeast Europe) / CRM-ERP Development Director (Microsoft Navision, Salesforce) — Merlion** (2006 – 2015)
 
-One of the largest private IT distributors in Eastern Europe. Built ERP and CRM systems on Microsoft Navision and Salesforce (5 years) — where I learned that deal flow runs on CRM quality.
+One of the largest private IT distributors in Eastern Europe. Enterprise and B2B sales of computing hardware across Southeast Europe, and the ERP and CRM systems the sales floor ran on (Microsoft Navision and Salesforce, 5 years), where I learned that deal flow runs on CRM quality.
 
 ## Selected proof
 - Evidence-first OSS reliability work in the AI-agent ecosystem: mutation-tested reviews of other people's PRs and bug reports carrying a deterministic repro plus a regression test shown failing on the unfixed code. google/adk-python#6957 — author adopted all three review findings in 6h («genuinely one of the most useful reviews I've gotten on this PR»); #6887 fixed upstream from our report; credited in headroom v2.0.8 release notes. Scope since 07.2026 (verified 2026-09-04): merged into 14 third-party engineering projects (MCP Go SDK, UK AISI inspect_ai, QwenLM/qwen-code, google-gemini/cookbook, fastmcp, agno, pydantic/logfire) + 52 issues with reproductions

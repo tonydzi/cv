@@ -1,15 +1,20 @@
-# Anton Dziatkovskii — AI Agent Security / Safety Engineering (applied)
+# Anton Dziatkovskii — Research Engineer / Member of Technical Staff (evals & agent infrastructure)
 
 https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA (Silicon Valley) – Sintra, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
-MSc in Computer & Information Systems Security (MEPhI, cryptography); smart-contract audit background and anti-fraud instincts from a decade in adversarial crypto markets (exchange infrastructure, market-maker engines); today I build guardrails for production agent fleets: agent-leash, verbatim-citation-gate (catches fabricated RAG citations), agent-control-plane-casebook (reproducible control-plane failure cases, each with a deterministic repro and an upstream bug report), three-circuit homeostatic governance (preprint). I run the attack surface I defend: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote
+Anthropic writes that about half its technical staff arrived with no prior ML experience; what the work does require is one deep column the lab is fighting with right now. Mine is adversarial distributed systems: MSc in Computer & Information Systems Security (MEPhI, cryptography), then exchange backends, market-maker engines and high-frequency trading systems shipped in production, then eleven years owning engineering delivery as a hired executive. I write Python and C++, and I run a production multi-agent system as an experimental rig: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. I do not claim ML research; I claim the engineering research runs on — eval harnesses, reproducibility, failure taxonomies, agent control planes, and bug reports that arrive with a deterministic repro and a regression test shown failing on the unfixed code. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote
 
 ## Experience
 
-**Operating Lead — Palo Alto AI Research Lab** (2023 – now)
+**Technical Lead — Palo Alto AI Research Lab** (2023 – now)
 
 Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
+
+- Merged code into UK AISI inspect_ai — the agent-evaluation framework evals orgs actually run — alongside merges into the MCP Go SDK, pydantic/logfire, fastmcp, agno and QwenLM/qwen-code
+- Every bug report is shipped as an experiment: deterministic repro, a regression test demonstrated failing on the unfixed code, and a mutation matrix showing which of the project's own tests stayed green (google/adk-python#6957 — the author adopted all three findings within six hours)
+- agent-control-plane-casebook: reproducible control-plane failure cases from a live fleet, each with a repro and an upstream bug report — a failure taxonomy, not a demo
+- Reliability evals published with the number rather than the claim: 0/17 Tier-2 (high-risk) actions slipped past the human approval gate in recorded runs; failure modes public in FAILURE-MODES.md
 
 **Chief Engineer, Lending & Risk Management — Everex (Singapore)** (2017 – 2018)
 
@@ -17,13 +22,13 @@ Wrote smart contracts and led government/bank relations across SE Asia on struct
 
 **COO / CTO (hired executive) — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
 
-Co-founded and ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in Silicon Valley and even the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
+Hired operating executive (COO/CTO) at a startup incubator and software house in APAC, 2015-2026 (11 years). Owned engineering delivery end to end: crypto-exchange infrastructure, market-maker engines and high-frequency trading systems, a distributed org of 40+ developers across APAC, and the in-house CRM I wrote myself and up to 30 operators worked in daily.
 
 - Shipped crypto-exchange infrastructure: cryptocurrency backends, market-maker engines, high-frequency trading systems; partnerships with hedge funds, market makers, brokers
-- Designed one of the first detailed frameworks for a national government to issue its own stablecoins (regulatory + token-economic design)
 - Managed a distributed engineering org of 40+ developers across APAC as product owner
+- Wrote my own CRM to run it (roots: 5 years building ERP/CRM on Salesforce and Microsoft Navision at Merlion): social enrichment, parsing at scale, lead-to-call pipelines; up to 30 operators worked in it daily; today it is AI-native
 
-**Sales Director, compute hardware (Southeast Europe) / CRM-ERP Development Director (Microsoft Navision, Salesforce) — Merlion** (2006 – 2015)
+**CRM / ERP Development Director (Navision, Salesforce) — Merlion** (2006 – 2015)
 
 One of the largest private IT distributors in Eastern Europe. Enterprise and B2B sales of computing hardware across Southeast Europe, and the ERP and CRM systems the sales floor ran on (Microsoft Navision and Salesforce, 5 years), where I learned that deal flow runs on CRM quality.
 
@@ -45,4 +50,4 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 - BSc, Computer and Information Sciences, National Research Nuclear University MEPhI
 
 ## Keywords
-AI security, agent safety, red team, guardrails, prompt injection, MCP security, cryptography, audit, trust and safety
+research engineer, member of technical staff, MTS, applied research engineer, evals, evaluations, eval harness, Inspect, agent evaluations, interpretability infrastructure, RL environments, training infrastructure, technical program manager research, AI safety, red team, distributed systems, cryptography, Python, C++, reproducibility, model evaluations

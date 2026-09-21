@@ -9,7 +9,7 @@ A decade running ecosystem functions hands-on: developer activation for a fronti
 
 **COO / CTO (hired executive) — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
 
-Co-founded and ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in Silicon Valley and even the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
+Hired operating executive (COO/CTO) who ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in Silicon Valley and even the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
 
 - Superconnector as a system: founders, builders, engineers and investors matched daily — and every repeatable connector motion (enrichment, matching, follow-up) automated, first with a self-built CRM, today with AI agents
 - In fundraising since 2017: $35M fund under management, syndicate of 250 VCs/angels; helped portfolio startups raise end-to-end — deck, investor intros, term negotiation
@@ -22,7 +22,7 @@ Co-founded and ran a startup incubator + software house in APAC since 2015 (11 y
 
 **Operating Lead — Palo Alto AI Research Lab** (2023 – now)
 
-Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
+Independent lab started in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 **Chief Engineer, Lending & Risk Management — Everex (Singapore)** (2017 – 2018)
 
@@ -57,4 +57,4 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 - **Cooking for the family**: Cook dinner for the household on weekends
 
 ## Keywords
-head of ecosystem, ecosystem growth, developer activation, grants, partnerships, community, hackathons, incubation, listings, foundation, institutional onboarding, liquidity, crypto, AI agents
+Python, C++, head of ecosystem, ecosystem growth, developer activation, grants, partnerships, community, hackathons, incubation, listings, foundation, institutional onboarding, liquidity, crypto, AI agents

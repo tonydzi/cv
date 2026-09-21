@@ -9,7 +9,7 @@ Ten years running a startup incubator hands-on: deal flow, cohorts, founder coac
 
 **COO / CTO (hired executive) — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
 
-Co-founded and ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). Portfolio ~70% crypto / 30% other, AI startups included.
+Hired operating executive (COO/CTO) who ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). Portfolio ~70% crypto / 30% other, AI startups included.
 
 - Ran cohorts end-to-end: sourced and recruited founders, coached them through product and fundraising, matched advisors, ran demo-day-style investor introductions
 - In fundraising since 2017: $35M fund under management, syndicate of 250 VCs/angels; helped portfolio startups raise end-to-end — deck, investor intros, term negotiation
@@ -19,7 +19,7 @@ Co-founded and ran a startup incubator + software house in APAC since 2015 (11 y
 
 **Operating Lead — Palo Alto AI Research Lab** (2023 – now)
 
-Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
+Independent lab started in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 - Community building and founder support are the same muscle as accelerator work: a 500+ member community of AI practitioners, including Stanford researchers and big-tech engineers
 
@@ -52,4 +52,4 @@ One of the largest private IT distributors in Eastern Europe. Enterprise and B2B
 - **Cooking for the family**: Cook dinner for the household on weekends
 
 ## Keywords
-accelerator, incubator, startup program, ecosystem, cohort, demo day, founder coaching, deal flow, venture, grants, foundation, startup partnerships, AI startups, crypto startups
+Python, C++, accelerator, incubator, startup program, ecosystem, cohort, demo day, founder coaching, deal flow, venture, grants, foundation, startup partnerships, AI startups, crypto startups

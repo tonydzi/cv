@@ -9,7 +9,7 @@ I run the full product cycle myself: find the expensive workflow, prototype it o
 
 **Operating Lead — Palo Alto AI Research Lab** (2023 – now)
 
-Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
+Independent lab started in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 **COO / CTO (hired executive), product owner — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
 
@@ -57,4 +57,4 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 - **Cooking for the family**: Cook dinner for the household on weekends
 
 ## Keywords
-technical product manager, AI product, product lead, agent product manager, zero to one, evals, agents, LLM APIs, developer tools, B2B, GTM
+Python, C++, technical product manager, AI product, product lead, agent product manager, zero to one, evals, agents, LLM APIs, developer tools, B2B, GTM

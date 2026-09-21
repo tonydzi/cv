@@ -18,7 +18,7 @@ Hired operating executive (COO/CTO) at a startup incubator and software house in
 
 **Operating Lead — Palo Alto AI Research Lab** (2023 – now)
 
-Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
+Independent lab started in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 - The operating system of the lab is written down and executed by machines: 100+ automation routines across six nodes, nightly unattended runs, human approval gates only at the ends of the pipe — never in the middle
 - Every live part carries a usage counter; parts with zero usage in 30 days get killed — operations measured, not assumed
@@ -61,4 +61,4 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 - **Cooking for the family**: Cook dinner for the household on weekends
 
 ## Keywords
-head of operations, business operations, bizops, operations lead, chief of staff, chief operating officer, COO, strategy and operations, process automation, internal tooling, workflow automation, vendor management, KPI, dashboards, AI operations, agents, SQL
+Python, C++, head of operations, business operations, bizops, operations lead, chief of staff, chief operating officer, COO, strategy and operations, process automation, internal tooling, workflow automation, vendor management, KPI, dashboards, AI operations, agents, SQL

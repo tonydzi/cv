@@ -15,7 +15,7 @@ I bring institutional capital and market-maker flow into trading ecosystems — 
 
 **COO / CTO (hired executive) — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
 
-Co-founded and ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). Portfolio focus: exchange/trading infrastructure (~70% crypto), with rare depth in Silicon Valley and even the Japanese and Korean startup communities.
+Hired operating executive (COO/CTO) who ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). Portfolio focus: exchange/trading infrastructure (~70% crypto), with rare depth in Silicon Valley and even the Japanese and Korean startup communities.
 
 - Shipped crypto-exchange infrastructure: cryptocurrency backends, market-maker engines, high-frequency trading systems; partnerships with hedge funds, market makers, brokers
 - Superconnector as a system: founders, builders, engineers and investors matched daily — and every repeatable connector motion (enrichment, matching, follow-up) automated, first with a self-built CRM, today with AI agents
@@ -27,7 +27,7 @@ Co-founded and ran a startup incubator + software house in APAC since 2015 (11 y
 
 **Operating Lead — Palo Alto AI Research Lab** (2023 – now)
 
-Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
+Independent lab started in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 **Chief Engineer, Lending & Risk Management — Everex (Singapore)** (2017 – 2018)
 
@@ -58,4 +58,4 @@ One of the largest private IT distributors in Eastern Europe. Enterprise and B2B
 - **Cooking for the family**: Cook dinner for the household on weekends
 
 ## Keywords
-institutional onboarding, ecosystem BD, perpetuals, perp DEX, Hyperliquid, HIP-3, builder codes, vaults, market making, prime brokerage, liquidity, listings, capital formation, staking, credit desks, KYC/KYB, crypto, AI agents
+Python, C++, institutional onboarding, ecosystem BD, perpetuals, perp DEX, Hyperliquid, HIP-3, builder codes, vaults, market making, prime brokerage, liquidity, listings, capital formation, staking, credit desks, KYC/KYB, crypto, AI agents

@@ -18,7 +18,7 @@ Hired operating executive (COO/CTO) at a startup incubator, software house and $
 
 **Operating Lead — Palo Alto AI Research Lab** (2023 – now)
 
-Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
+Independent lab started in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 - AI adoption run as an operating discipline, not a pilot: 100+ automation routines across six machines, nightly unattended runs, human approval gates only on irreversible actions — the control problem every fund hits when it puts models next to money
 - Every live part carries a usage counter; parts with zero usage in 30 days get killed — adoption measured, not assumed, which is the metric an AI-enablement mandate is actually judged on
@@ -59,4 +59,4 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 - **Cooking for the family**: Cook dinner for the household on weekends
 
 ## Keywords
-business manager, business management, chief of staff, COO office, systematic COO, investment platform, platform project manager, program management, AI strategy, AI enablement, AI adoption, investment technology, trading technology, front-office technology, market structure, execution, data strategy, alternative data, multi-manager, hedge fund, proprietary trading, vendor management, budgets, stakeholder management
+Python, C++, business manager, business management, chief of staff, COO office, systematic COO, investment platform, platform project manager, program management, AI strategy, AI enablement, AI adoption, investment technology, trading technology, front-office technology, market structure, execution, data strategy, alternative data, multi-manager, hedge fund, proprietary trading, vendor management, budgets, stakeholder management

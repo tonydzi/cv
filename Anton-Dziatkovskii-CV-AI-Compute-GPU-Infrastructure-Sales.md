@@ -9,7 +9,7 @@ I sold compute hardware before I started buying it: 2006-2015 at one of Eastern 
 
 **Operating Lead — Palo Alto AI Research Lab** (2023 – now)
 
-Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
+Independent lab started in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 - Run a production multi-machine Claude fleet (6 machines) in public: consensus, persistent memory, CRM automation, 100+ autonomous routines, published evals and documented failure modes
 - Day-to-day consumer of compute: local GPU inference for embeddings, reranking and transcription, plus multi-vendor LLM API spend routed across subscriptions by cost
@@ -62,4 +62,4 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 - **Cooking for the family**: Cook dinner for the household on weekends
 
 ## Keywords
-enterprise sales, account executive, AI compute, GPU cloud, hardware sales, semiconductors, data center, infrastructure sales, capacity, technical account manager, solutions architect, distribution, channel, Southeast Europe, EMEA
+Python, C++, enterprise sales, account executive, AI compute, GPU cloud, hardware sales, semiconductors, data center, infrastructure sales, capacity, technical account manager, solutions architect, distribution, channel, Southeast Europe, EMEA

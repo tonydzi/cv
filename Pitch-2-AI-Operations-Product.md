@@ -26,7 +26,7 @@ https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · 
 
 ## Why this transfers
 
-- **Zero-to-one is my default mode:** 10+ years venture founder (since 2015); first non-engineer hire material — I own problem framing, architecture decisions, evals, and GTM while engineers (human or AI) implement.
+- **Zero-to-one is my default mode:** 10+ years as hired operating executive (COO/CTO) at a venture incubator (since 2015); engineer by training (Python, C++) — I own problem framing, architecture decisions, evals, and GTM while engineers (human or AI) implement.
 - **Ops at scale before AI:** built ERP/CRM on Salesforce and MS Navision for one of Eastern Europe's largest IT distributors; ran a 40+ engineer org across APAC as product owner.
 - **Regulated-finance context:** stablecoin frameworks for a national government; bank/government relations in SE Asia.
 

@@ -20,7 +20,7 @@ Hired operating executive (COO/CTO) at a startup incubator, software house and $
 
 **Operating Lead — Palo Alto AI Research Lab** (2023 – now)
 
-Founded in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
+Independent lab started in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 - Operating controls written down and executed by machines: 100+ automation routines across six nodes, nightly unattended runs, human approval gates only on irreversible actions — the same discipline a fund needs in its middle office
 - Every live part carries a usage counter; parts unused for 30 days are killed — operations measured, not assumed
@@ -54,4 +54,4 @@ One of the largest private IT distributors in Eastern Europe. Enterprise and B2B
 - **Cooking for the family**: Cook dinner for the household on weekends
 
 ## Keywords
-fund operations, portfolio operations, head of platform, value creation, venture partner, technical partner, operating partner, head of ventures, fund finance and operations, middle office, treasury, technical due diligence, crypto fund, digital assets, portfolio support, GP, LP
+Python, C++, fund operations, portfolio operations, head of platform, value creation, venture partner, technical partner, operating partner, head of ventures, fund finance and operations, middle office, treasury, technical due diligence, crypto fund, digital assets, portfolio support, GP, LP

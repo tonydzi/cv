@@ -22,7 +22,7 @@ https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · 
 
 **Deployed it.** 115 public repos (claude-bible — most-starred, claw-consensus with reproducible offline demo, verbatim-citation-gate, agent-leash, second-brain-starter-kit with 101 skills); a 169k-subscriber Telegram channel (@PaloAltoAi); a 500+ AI-practitioner community in Palo Alto including Stanford researchers and big-tech engineers.
 
-**Measured it.** Inbound engineer contributions answered within 24h as policy; published evals and FAILURE-MODES.md as trust artifacts; community and channel growth tracked, not estimated. 50+ publications, 136 citations, h-index 7 (verified 08.2026).
+**Measured it.** Inbound engineer contributions answered within 24h as policy; published evals and FAILURE-MODES.md as trust artifacts; community and channel growth tracked, not estimated. 50+ publications, 137 citations, h-index 7 (verified 09.2026).
 
 ## Why this transfers
 

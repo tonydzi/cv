@@ -5,9 +5,12 @@ https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · 
 ## Summary
 Stablecoins are not new territory for me: in 2018 I worked with banks and governments in Myanmar, Cambodia, Thailand and Australia (incl. CB Bank in Myanmar and central-bank stakeholders) on frameworks to launch their first stablecoins — years before the current wave. Built my own stablecoin project (QDAO, 2019: governance token over collateralized fiat-backed stables). At Everex wrote smart contracts and led government/bank relations on crypto-payment structuring. Fluent in the 2026 agenda: stablecoins as collateral and margin on perp-DEXes (USDe/USDH-class yield-bearing designs), issuer economics, reserve and treasury mechanics. Today I add an AI-native operator layer: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote
 
+## Skills
+Python, C++, stablecoin, digital currency, CBDC, payments, tokenization, issuer, regulatory, government relations, treasury, DeFi, compliance, perp collateral
+
 ## Experience
 
-**COO / CTO (hired executive) — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
+**COO / CTO (hired executive) — Platinum Software Development Company / Platinum VC & Incubator** (2015 – Present)
 
 Hired operating executive (COO/CTO) who ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in Silicon Valley and even the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
 
@@ -24,9 +27,9 @@ Hired operating executive (COO/CTO) who ran a startup incubator + software house
 
 Wrote smart contracts and led government/bank relations across SE Asia on structuring crypto payments and stablecoins; blockchain credit scoring, stable-value payments.
 
-**Operating Lead — Palo Alto AI Research Lab** (2023 – now)
+**Operating Lead — Palo Alto AI Research Lab** (2023 – Present)
 
-Independent lab started in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
+Independent lab started in 2023 in Palo Alto, CA; grew a community of 100+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 **Sales Director, compute hardware (Southeast Europe) / CRM-ERP Development Director (Microsoft Navision, Salesforce) — Merlion** (2006 – 2015)
 
@@ -41,7 +44,7 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 - 115 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, agent-control-plane-casebook, sqlite-graph-memory, second-brain-starter-kit
 - 50+ published items, 137 citations, h-index 7 (verified 2026-09-01); 2 preprints on multi-agent stability (arXiv in progress)
 - Measured agent-fleet reliability evals published (07.2026): 0/17 Tier-2 (high-risk) actions slipped past the human approval gate in recorded runs; failure modes documented in public (FAILURE-MODES.md)
-- Audience & network: 169k-subscriber Telegram channel (@PaloAltoAi) + 500+ AI-practitioner community in Palo Alto, the heart of Silicon Valley; Silicon Valley network built on the ground plus a decade of Japan/Korea startup-community depth; enterprise advisory for Foxconn and ANA Airlines subsidiaries
+- Audience & network: 169k-subscriber Telegram channel (@PaloAltoAi) + 100+ AI-practitioner community in Palo Alto, the heart of Silicon Valley; Silicon Valley network built on the ground plus a decade of Japan/Korea startup-community depth; enterprise advisory for Foxconn and ANA Airlines subsidiaries
 
 ## Education
 
@@ -55,6 +58,3 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 - **Endurance and mountain biking**: Half-marathons; Mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout; Surfing, windsurfing, kitesurfing, tennis
 - **Sharp tools, clean workspace**: Perfectionist about the instrument: kitchen knives, keyboard, mouse, spotless glass; A 5-machine, 9-monitor workspace I administer myself, so work runs in parallel instead of context-switching inside one box; Ten years of orchestrating many tasks at once; voice-first input over typing
 - **Cooking for the family**: Cook dinner for the household on weekends
-
-## Keywords
-Python, C++, stablecoin, digital currency, CBDC, payments, tokenization, issuer, regulatory, government relations, treasury, DeFi, compliance, perp collateral

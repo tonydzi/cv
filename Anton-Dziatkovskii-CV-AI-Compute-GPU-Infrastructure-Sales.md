@@ -5,16 +5,19 @@ https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · 
 ## Summary
 I sold compute hardware before I started buying it: 2006-2015 at one of Eastern Europe's largest IT distributors, moving chips, memory, GPUs and CPUs to B2B and enterprise buyers, ~$5M/month personally inside a department running $15M to $25M/month, with Southeast Europe as my territory. Today I sit on the other side of that same trade: I run a production multi-machine Claude fleet in public and consume compute every day, local GPU inference plus multi-vendor LLM spend, so I can talk to a buyer about capacity, procurement and cluster economics and still read the workload they intend to run on it. Eleven years as a hired operating executive (COO/CTO) in between, carrying revenue and delivery. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote
 
+## Skills
+Python, C++, enterprise sales, account executive, AI compute, GPU cloud, hardware sales, semiconductors, data center, infrastructure sales, capacity, technical account manager, solutions architect, distribution, channel, Southeast Europe, EMEA
+
 ## Experience
 
-**Operating Lead — Palo Alto AI Research Lab** (2023 – now)
+**Operating Lead — Palo Alto AI Research Lab** (2023 – Present)
 
-Independent lab started in 2023 in Palo Alto, CA; grew a community of 500+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
+Independent lab started in 2023 in Palo Alto, CA; grew a community of 100+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
 - Run a production multi-machine Claude fleet (6 machines) in public: consensus, persistent memory, CRM automation, 100+ autonomous routines, published evals and documented failure modes
 - Day-to-day consumer of compute: local GPU inference for embeddings, reranking and transcription, plus multi-vendor LLM API spend routed across subscriptions by cost
 
-**COO / CTO (hired executive) — Platinum Software Development Company / Platinum VC & Incubator** (2015 – now)
+**COO / CTO (hired executive) — Platinum Software Development Company / Platinum VC & Incubator** (2015 – Present)
 
 Hired operating executive (COO/CTO) at a startup incubator + software house in APAC since 2015 (11 years). Ran the commercial motion end to end: deal flow, enterprise advisory for subsidiaries of Foxconn and ANA Airlines, fundraising, and a distributed engineering org of 40+ developers across APAC as product owner.
 
@@ -46,7 +49,7 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 - 115 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, agent-control-plane-casebook, sqlite-graph-memory, second-brain-starter-kit
 - 50+ published items, 137 citations, h-index 7 (verified 2026-09-01); 2 preprints on multi-agent stability (arXiv in progress)
 - Measured agent-fleet reliability evals published (07.2026): 0/17 Tier-2 (high-risk) actions slipped past the human approval gate in recorded runs; failure modes documented in public (FAILURE-MODES.md)
-- Audience & network: 169k-subscriber Telegram channel (@PaloAltoAi) + 500+ AI-practitioner community in Palo Alto, the heart of Silicon Valley; Silicon Valley network built on the ground plus a decade of Japan/Korea startup-community depth; enterprise advisory for Foxconn and ANA Airlines subsidiaries
+- Audience & network: 169k-subscriber Telegram channel (@PaloAltoAi) + 100+ AI-practitioner community in Palo Alto, the heart of Silicon Valley; Silicon Valley network built on the ground plus a decade of Japan/Korea startup-community depth; enterprise advisory for Foxconn and ANA Airlines subsidiaries
 
 ## Education
 
@@ -60,6 +63,3 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 - **Endurance and mountain biking**: Half-marathons; Mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout; Surfing, windsurfing, kitesurfing, tennis
 - **Sharp tools, clean workspace**: Perfectionist about the instrument: kitchen knives, keyboard, mouse, spotless glass; A 5-machine, 9-monitor workspace I administer myself, so work runs in parallel instead of context-switching inside one box; Ten years of orchestrating many tasks at once; voice-first input over typing
 - **Cooking for the family**: Cook dinner for the household on weekends
-
-## Keywords
-Python, C++, enterprise sales, account executive, AI compute, GPU cloud, hardware sales, semiconductors, data center, infrastructure sales, capacity, technical account manager, solutions architect, distribution, channel, Southeast Europe, EMEA

@@ -53,9 +53,7 @@ One of the largest private IT distributors in Eastern Europe. Enterprise and B2B
 - MSc, Computer and Information Systems Security, National Research Nuclear University MEPhI
 - BSc, Computer and Information Sciences, National Research Nuclear University MEPhI
 
-## Beyond work
+## Interests
 
-- **Aviation**: Licenced helicopter pilot, ~200 flight hours; Student pilot on fixed-wing, working toward the licence; Long-term goal: a small plane for the family, and a round-the-world flight in it
-- **Triathlon and endurance sport**: Triathlon; Half-marathons; Mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout; Surfing, windsurfing, kitesurfing, tennis
-- **Sharp tools, clean workspace**: Perfectionist about the instrument: kitchen knives, keyboard, mouse, spotless glass; A 5-machine, 9-monitor workspace I administer myself, so work runs in parallel instead of context-switching inside one box; Ten years of orchestrating many tasks at once; voice-first input over typing
-- **Cooking for the family**: Cook dinner for the household on weekends
+- **Endurance sport**: Triathlon; Half-marathons; Surfing, windsurfing, kitesurfing, tennis; Mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout
+- **Aviation and building bunkers**: Licenced helicopter pilot, ~200 flight hours; student pilot on fixed-wing; I build bunkers: several already standing in New Zealand and Australia - the fixed-wing licence is how I reach them when things go sideways; Long-term goal: a small plane for the family, and a round-the-world flight in it

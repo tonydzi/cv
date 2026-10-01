@@ -3,7 +3,7 @@
 https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA (Silicon Valley) – Sintra, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
-I deploy AI into messy real-world environments every day: I run a production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. I ship working agent systems end-to-end (MCP connectors, RAG over a 10-year knowledge base, CRM automation, evals) and can sit in front of a customer or a regulator: 15+ years operator/BD background, incl. structuring crypto payments and stablecoins with banks and governments in SE Asia — adversarial, compliance-heavy environments. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote
+Engineer and technical operator building AI-agent systems with MCP connectors, retrieval-augmented generation (RAG), CRM automation and reliability evals. Operate a six-machine production fleet at an independent lab, with public failure reports and reproducible tests. Previously built an in-house CRM used daily by up to 30 operators and managed 40+ developers across APAC. Programming: Python and C++. US O-1 active; Polish citizen; no US/EU sponsorship required.
 
 ## Skills
 Python, C++, forward deployed engineer, solutions engineer, AI deployment, LLM integration, MCP, RAG, agents, evals, Claude, customer-facing, post-sales
@@ -54,6 +54,6 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 ## Beyond work
 
 - **Aviation**: Licenced helicopter pilot, ~200 flight hours; Student pilot on fixed-wing, working toward the licence; Long-term goal: a small plane for the family, and a round-the-world flight in it
-- **Endurance and mountain biking**: Half-marathons; Mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout; Surfing, windsurfing, kitesurfing, tennis
+- **Triathlon and endurance sport**: Triathlon; Half-marathons; Mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout; Surfing, windsurfing, kitesurfing, tennis
 - **Sharp tools, clean workspace**: Perfectionist about the instrument: kitchen knives, keyboard, mouse, spotless glass; A 5-machine, 9-monitor workspace I administer myself, so work runs in parallel instead of context-switching inside one box; Ten years of orchestrating many tasks at once; voice-first input over typing
 - **Cooking for the family**: Cook dinner for the household on weekends

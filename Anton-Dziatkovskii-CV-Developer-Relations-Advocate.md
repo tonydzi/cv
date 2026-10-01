@@ -3,7 +3,7 @@
 https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA (Silicon Valley) – Sintra, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
-I did developer activation for a frontier platform before — when smart contracts were where LLM agents are now: Solidity curricula, hackathons, cohorts, scaled a distributed engineering org to 40+ developers across APAC. Today I build with Claude in public daily (115 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, agent-control-plane-casebook, sqlite-graph-memory, second-brain-starter-kit) and write the operating manual as I go (相棒 AIBŌ · The Partner). PhD, 50+ published items, 137 citations, h-index 7 (verified 2026-09-01); 2 preprints on multi-agent stability (arXiv in progress). US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote
+Developer educator and AI-agent practitioner with a PhD in Education (Information Technologies). Built Solidity curricula and ran hackathons and cohorts for developers. At Palo Alto AI Research Lab, publish reproducible failure cases, reliability reviews and an operating manual for AI-agent systems. Grew a community of 100+ AI practitioners. Programming: Python and C++. US O-1 active; Polish citizen; no US/EU sponsorship required.
 
 ## Skills
 Python, C++, developer relations, developer advocate, community, ecosystem, content, technical evangelism, open source, agents, hackathons, curriculum
@@ -50,6 +50,6 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 ## Beyond work
 
 - **Aviation**: Licenced helicopter pilot, ~200 flight hours; Student pilot on fixed-wing, working toward the licence; Long-term goal: a small plane for the family, and a round-the-world flight in it
-- **Endurance and mountain biking**: Half-marathons; Mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout; Surfing, windsurfing, kitesurfing, tennis
+- **Triathlon and endurance sport**: Triathlon; Half-marathons; Mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout; Surfing, windsurfing, kitesurfing, tennis
 - **Sharp tools, clean workspace**: Perfectionist about the instrument: kitchen knives, keyboard, mouse, spotless glass; A 5-machine, 9-monitor workspace I administer myself, so work runs in parallel instead of context-switching inside one box; Ten years of orchestrating many tasks at once; voice-first input over typing
 - **Cooking for the family**: Cook dinner for the household on weekends

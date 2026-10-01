@@ -3,7 +3,7 @@
 https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA (Silicon Valley) – Sintra, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
-Eleven years as a hired operating executive (COO/CTO) at an APAC incubator and software house: scaled a distributed engineering org to 40+ developers across APAC, an in-house CRM worked daily by up to 30 operators, cohorts run end to end, and regulated operations with banks and governments in SE Asia. What the 2026 job description asks for — «turn a messy manual workflow into a system that runs itself» — is what I already operate: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines, with published evals and failure modes. I run a finished product cycle: found the problem, built it, people use it. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote
+Operating executive with 11 years at an APAC incubator and software house. Managed 40+ developers as product owner; built an in-house CRM used daily by up to 30 operators. Ran startup cohorts, advisor matching and enterprise advisory, drawing on five years building Salesforce and Microsoft Navision systems. Combine operations leadership with hands-on programming in Python and C++. US O-1 active; Polish citizen; no US/EU sponsorship required.
 
 ## Skills
 Python, C++, head of operations, business operations, bizops, operations lead, chief of staff, chief operating officer, COO, strategy and operations, process automation, internal tooling, workflow automation, vendor management, KPI, dashboards, AI operations, agents, SQL
@@ -59,6 +59,6 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 ## Beyond work
 
 - **Aviation**: Licenced helicopter pilot, ~200 flight hours; Student pilot on fixed-wing, working toward the licence; Long-term goal: a small plane for the family, and a round-the-world flight in it
-- **Endurance and mountain biking**: Half-marathons; Mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout; Surfing, windsurfing, kitesurfing, tennis
+- **Triathlon and endurance sport**: Triathlon; Half-marathons; Mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout; Surfing, windsurfing, kitesurfing, tennis
 - **Sharp tools, clean workspace**: Perfectionist about the instrument: kitchen knives, keyboard, mouse, spotless glass; A 5-machine, 9-monitor workspace I administer myself, so work runs in parallel instead of context-switching inside one box; Ten years of orchestrating many tasks at once; voice-first input over typing
 - **Cooking for the family**: Cook dinner for the household on weekends

@@ -55,5 +55,5 @@ One of the largest private IT distributors in Eastern Europe. Enterprise and B2B
 
 ## Interests
 
-- **Endurance sport**: Triathlon; Half-marathons; Surfing, windsurfing, kitesurfing, tennis; Mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout
+- **Endurance sport**: Triathlon: mid-pack drifting to the back, and honest about it; Half-marathons; Surfing, windsurfing, kitesurfing, tennis; Mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout
 - **Aviation and building bunkers**: Licenced helicopter pilot, ~200 flight hours; student pilot on fixed-wing; I build bunkers: several already standing in New Zealand and Australia - the fixed-wing licence is how I reach them when things go sideways; Long-term goal: a small plane for the family, and a round-the-world flight in it

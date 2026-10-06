@@ -48,5 +48,5 @@ Palo Alto, CA base; can work from the Berkeley workspace. US O-1 active and EU (
 
 ## Interests
 
-- **Endurance sport**: triathlon; half-marathons; surfing; mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout
+- **Endurance sport**: triathlon (mid-pack drifting to the back, and honest about it); half-marathons; surfing; mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout
 - **Aviation and building bunkers**: licenced helicopter pilot, ~200 flight hours; student pilot on fixed-wing; I build bunkers: several already standing in New Zealand and Australia - the fixed-wing licence is how I reach them when things go sideways

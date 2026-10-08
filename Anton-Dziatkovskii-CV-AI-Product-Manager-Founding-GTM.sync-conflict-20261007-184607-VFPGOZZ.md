@@ -1,12 +1,12 @@
-# Anton Dziatkovskii — Forward-Deployed / AI Deployment Engineer (Solutions)
+# Anton Dziatkovskii — Technical PM / AI Product / Product Lead
 
 https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA (Silicon Valley) – Sintra, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
-Engineer and technical operator building AI-agent systems with MCP connectors, retrieval-augmented generation (RAG), CRM automation and reliability evals. Operate a six-machine production fleet at an independent lab, with public failure reports and reproducible tests. Previously built an in-house CRM used daily by up to 30 operators and managed 40+ developers across APAC. Programming: Python and C++. US O-1 active; Polish citizen; no US/EU sponsorship required.
+I run the full product cycle myself: find the expensive workflow, prototype it on LLM APIs, take it to production, then prove quality on real runs. Current proof: production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines, with published evals and documented failure modes. Engineer by training (Python, C++) and a hired operating executive for eleven years, so I can own problem framing, architecture trade-offs, evaluation and GTM in the same week. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote
 
 ## Skills
-Python, C++, forward deployed engineer, solutions engineer, AI deployment, LLM integration, MCP, RAG, agents, evals, Claude, customer-facing, post-sales
+Python, C++, technical product manager, AI product, product lead, agent product manager, zero to one, evals, agents, LLM APIs, developer tools, B2B, GTM
 
 ## Experience
 
@@ -14,11 +14,12 @@ Python, C++, forward deployed engineer, solutions engineer, AI deployment, LLM i
 
 Independent lab started in 2023 in Palo Alto, CA; grew a community of 100+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
-**COO / CTO (hired executive) — Platinum Software Development Company / Platinum VC & Incubator** (2015 – Present)
+**COO / CTO (hired executive), product owner — Platinum Software Development Company / Platinum VC & Incubator** (2015 – Present)
 
-Hired operating executive (COO/CTO) who ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in Silicon Valley and even the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
+Hired operating executive (COO/CTO) at a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). Product owner for a distributed engineering org across APAC: exchange backends, market-maker engines and the in-house CRM the whole firm worked in daily. Portfolio ~70% crypto / 30% other, AI startups included.
 
 - Superconnector as a system: founders, builders, engineers and investors matched daily — and every repeatable connector motion (enrichment, matching, follow-up) automated, first with a self-built CRM, today with AI agents
+- In fundraising since 2017: $35M fund under management, syndicate of 250 VCs/angels; helped portfolio startups raise end-to-end — deck, investor intros, term negotiation
 - Built a deal-flow machine: 10,000+ founder calls and 2,000+ institutional-investor calls; qualified, enriched investor base across the US, Japan, Korea, China, Australia and Europe
 - Wrote my own CRM to run it (roots: 5 years building ERP/CRM on Salesforce and Microsoft Navision at Merlion): social enrichment, parsing at scale, lead-to-call pipelines; up to 30 operators worked in it daily; today it is AI-native
 - Ran cohorts end-to-end: recruited builders, coached founders, matched advisors; enterprise advisory for subsidiaries of Foxconn and ANA Airlines
@@ -26,21 +27,21 @@ Hired operating executive (COO/CTO) who ran a startup incubator + software house
 - Designed one of the first detailed frameworks for a national government to issue its own stablecoins (regulatory + token-economic design)
 - Managed a distributed engineering org of 40+ developers across APAC as product owner
 
-**Chief Engineer, Lending & Risk Management — Everex (Singapore)** (2017 – 2018)
-
-Wrote smart contracts and led government/bank relations across SE Asia on structuring crypto payments and stablecoins; blockchain credit scoring, stable-value payments.
-
 **Sales Director, compute hardware (Southeast Europe) / CRM-ERP Development Director (Microsoft Navision, Salesforce) — Merlion** (2006 – 2015)
 
 One of the largest private IT distributors in Eastern Europe. Enterprise and B2B sales of computing hardware across Southeast Europe, and the ERP and CRM systems the sales floor ran on (Microsoft Navision and Salesforce, 5 years), where I learned that deal flow runs on CRM quality.
+
+**Chief Engineer, Lending & Risk Management — Everex (Singapore)** (2017 – 2018)
+
+Wrote smart contracts and led government/bank relations across SE Asia on structuring crypto payments and stablecoins; blockchain credit scoring, stable-value payments.
 
 **CRM Developer Intern — CRM/ERP consulting (Salesforce ecosystem)** (2004 – 2006)
 
 First professional years: CRM systems development in the Salesforce/ERP ecosystem.
 
 ## Selected proof
-- Merged into microsoft/semantic-kernel (#14371): closed the check-time/use-time gap in the OpenAPI plugin's anti-SSRF validator: its built-in HTTP client now connects to the exact address that was vetted. Evidence-first OSS reliability work in the AI-agent ecosystem: mutation-tested reviews of other people's PRs and bug reports carrying a deterministic repro plus a regression test shown failing on the unfixed code. google/adk-python#6957 — author adopted all three review findings in 6h («genuinely one of the most useful reviews I've gotten on this PR»); #6887 fixed upstream from our report; credited in headroom v2.0.8 release notes. Scope since 07.2026 (verified 2026-10-08): 40 PRs merged into 25 third-party engineering projects (Microsoft Semantic Kernel, MCP Go SDK, UK AISI inspect_ai, QwenLM/qwen-code, google-gemini/cookbook, fastmcp, agno, pydantic/logfire) + 65 issues filed upstream
-- 148 public repos (2026-10-08); flagships: agent-fleet-red-team, leash-poc, agent-approval-gate, claw-consensus, verbatim-citation-gate, claude-bible, agent-control-plane-casebook
+- Evidence-first OSS reliability work in the AI-agent ecosystem: mutation-tested reviews of other people's PRs and bug reports carrying a deterministic repro plus a regression test shown failing on the unfixed code. google/adk-python#6957 — author adopted all three review findings in 6h («genuinely one of the most useful reviews I've gotten on this PR»); #6887 fixed upstream from our report; credited in headroom v2.0.8 release notes. Scope since 07.2026 (verified 2026-09-04): merged into 14 third-party engineering projects (MCP Go SDK, UK AISI inspect_ai, QwenLM/qwen-code, google-gemini/cookbook, fastmcp, agno, pydantic/logfire) + 52 issues with reproductions
+- 115 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, agent-control-plane-casebook, sqlite-graph-memory, second-brain-starter-kit
 - 50+ published items, 137 citations, h-index 7 (verified 2026-09-01); 2 preprints on multi-agent stability (arXiv in progress)
 - Measured agent-fleet reliability evals published (07.2026): 0/17 Tier-2 (high-risk) actions slipped past the human approval gate in recorded runs; failure modes documented in public (FAILURE-MODES.md)
 - Audience & network: 169k-subscriber Telegram channel (@PaloAltoAi) + 100+ AI-practitioner community in Palo Alto, the heart of Silicon Valley; Silicon Valley network built on the ground plus a decade of Japan/Korea startup-community depth; enterprise advisory for Foxconn and ANA Airlines subsidiaries
@@ -53,5 +54,5 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 
 ## Interests
 
-- **Endurance sport**: Triathlon: mid-pack drifting to the back, and honest about it; Half-marathons; Surfing, windsurfing, kitesurfing, tennis; Mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout
+- **Endurance sport**: Triathlon; Half-marathons; Surfing, windsurfing, kitesurfing, tennis; Mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout
 - **Aviation and building bunkers**: Licenced helicopter pilot, ~200 flight hours; student pilot on fixed-wing; I build bunkers: several already standing in New Zealand and Australia - the fixed-wing licence is how I reach them when things go sideways; Long-term goal: a small plane for the family, and a round-the-world flight in it

@@ -1,12 +1,12 @@
-# Anton Dziatkovskii — Technical Writer / AI Educator / Evals & Research-adjacent
+# Anton Dziatkovskii — Events & Field Marketing / Community Programs (AI)
 
 https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA (Silicon Valley) – Sintra, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
-PhD + practitioner: 50+ published items, 137 citations, h-index 7 (verified 2026-09-01); 2 preprints on multi-agent stability (arXiv in progress). Designed and taught Solidity curricula; writing a book on human-AI collaboration (相棒 AIBŌ · The Partner) while running a production multi-machine Claude fleet (6 machines), operated in public: consensus, CRM, persistent memory, 100+ automation routines. I turn messy frontier practice into reproducible docs, evals and courses. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote
+I run rooms for a living and have the calendar to prove it: 58 events hosted in 2025 on my own Luma calendar, the largest an invite-only investor/VC room with 245 registrations, on top of being a community organizer since 2019 — from Moscow research meetups to Silicon Valley Crypto Mondays. I own the distribution too: a 169k-subscriber channel and a 100+ member AI-practitioner community in Palo Alto. What I actually sell is not attendance but the right people in one room and the follow-up that happens after it. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote
 
 ## Skills
-Python, C++, technical writing, documentation, developer education, evals, curriculum, research engineer adjacent, publications, benchmarks
+Python, C++, events, field marketing, event marketing, community programs, head of community, community manager, meetups, conferences, summits, hackathons, developer events, experiential marketing, event operations, sponsorships, roadshow, pipeline from events
 
 ## Experience
 
@@ -14,13 +14,17 @@ Python, C++, technical writing, documentation, developer education, evals, curri
 
 Independent lab started in 2023 in Palo Alto, CA; grew a community of 100+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
+- 58 events hosted in 2025 on my own calendar (Palo Alto AI Research Lab on Luma): a weekly community call plus invite-only rooms, the largest a private investor/VC room with 245 registrations
+- Distribution for the room comes from assets I own: a 169k-subscriber Telegram channel (@PaloAltoAi) and a 100+ member AI-practitioner community in Palo Alto, the heart of Silicon Valley — run as a standing weekly room, not a one-off launch party
+
 **COO / CTO (hired executive) — Platinum Software Development Company / Platinum VC & Incubator** (2015 – Present)
 
 Hired operating executive (COO/CTO) who ran a startup incubator + software house in APAC since 2015 (11 years), alongside Japanese partner Tetsuji Nagata (Grand Corp; 12 years at Bloomberg before that). The job a partner at 500 Startups or Plug and Play does — deal flow, cohorts, founder coaching, advisor matching, fundraising — done hands-on at a boutique incubator, with rare depth in Silicon Valley and even the Japanese and Korean startup communities. Portfolio ~70% crypto / 30% other, AI startups included.
 
-- Ran cohorts end-to-end: recruited builders, coached founders, matched advisors; enterprise advisory for subsidiaries of Foxconn and ANA Airlines
-- community organizer since 2019: Moscow Cryptoeconomics Research Group meetups → Silicon Valley crypto meetups (Crypto Mondays)
-- Designed one of the first detailed frameworks for a national government to issue its own stablecoins (regulatory + token-economic design)
+- Community organizer since 2019: Moscow Cryptoeconomics Research Group meetups → Silicon Valley crypto meetups (Crypto Mondays)
+- Rooms built for an outcome rather than for attendance: demo-day-style investor introductions out of incubator cohorts, with founders matched to the specific advisors and investors who could move them — the same matching I ran daily outside events
+- Field side of the funnel: owner-level relationships with market makers, hedge funds, brokers and investors built over a decade of servicing them, plus enterprise advisory for subsidiaries of Foxconn and ANA Airlines
+- Superconnector as a system: founders, builders, engineers and investors matched daily — and every repeatable connector motion (enrichment, matching, follow-up) automated, first with a self-built CRM, today with AI agents
 
 **Chief Engineer, Lending & Risk Management — Everex (Singapore)** (2017 – 2018)
 
@@ -35,8 +39,8 @@ One of the largest private IT distributors in Eastern Europe. Enterprise and B2B
 First professional years: CRM systems development in the Salesforce/ERP ecosystem.
 
 ## Selected proof
-- Evidence-first OSS reliability work in the AI-agent ecosystem: mutation-tested reviews of other people's PRs and bug reports carrying a deterministic repro plus a regression test shown failing on the unfixed code. google/adk-python#6957 — author adopted all three review findings in 6h («genuinely one of the most useful reviews I've gotten on this PR»); #6887 fixed upstream from our report; credited in headroom v2.0.8 release notes. Scope since 07.2026 (verified 2026-09-04): merged into 14 third-party engineering projects (MCP Go SDK, UK AISI inspect_ai, QwenLM/qwen-code, google-gemini/cookbook, fastmcp, agno, pydantic/logfire) + 52 issues with reproductions
-- 115 public repos; flagships: claw-consensus, verbatim-citation-gate, claude-bible, agent-leash, agent-control-plane-casebook, sqlite-graph-memory, second-brain-starter-kit
+- Merged into microsoft/semantic-kernel (#14371): closed the check-time/use-time gap in the OpenAPI plugin's anti-SSRF validator: its built-in HTTP client now connects to the exact address that was vetted. Evidence-first OSS reliability work in the AI-agent ecosystem: mutation-tested reviews of other people's PRs and bug reports carrying a deterministic repro plus a regression test shown failing on the unfixed code. google/adk-python#6957 — author adopted all three review findings in 6h («genuinely one of the most useful reviews I've gotten on this PR»); #6887 fixed upstream from our report; credited in headroom v2.0.8 release notes. Scope since 07.2026 (verified 2026-10-08): 40 PRs merged into 25 third-party engineering projects (Microsoft Semantic Kernel, MCP Go SDK, UK AISI inspect_ai, QwenLM/qwen-code, google-gemini/cookbook, fastmcp, agno, pydantic/logfire) + 65 issues filed upstream
+- 148 public repos (2026-10-08); flagships: agent-fleet-red-team, leash-poc, agent-approval-gate, claw-consensus, verbatim-citation-gate, claude-bible, agent-control-plane-casebook
 - 50+ published items, 137 citations, h-index 7 (verified 2026-09-01); 2 preprints on multi-agent stability (arXiv in progress)
 - Measured agent-fleet reliability evals published (07.2026): 0/17 Tier-2 (high-risk) actions slipped past the human approval gate in recorded runs; failure modes documented in public (FAILURE-MODES.md)
 - Audience & network: 169k-subscriber Telegram channel (@PaloAltoAi) + 100+ AI-practitioner community in Palo Alto, the heart of Silicon Valley; Silicon Valley network built on the ground plus a decade of Japan/Korea startup-community depth; enterprise advisory for Foxconn and ANA Airlines subsidiaries
@@ -49,5 +53,5 @@ First professional years: CRM systems development in the Salesforce/ERP ecosyste
 
 ## Interests
 
-- **Endurance sport**: Triathlon; Half-marathons; Surfing, windsurfing, kitesurfing, tennis; Mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout
+- **Endurance sport**: Triathlon: mid-pack drifting to the back, and honest about it; Half-marathons; Surfing, windsurfing, kitesurfing, tennis; Mountain biking (downhill, jumps) on an analogue bike by choice: a workout should stay a workout
 - **Aviation and building bunkers**: Licenced helicopter pilot, ~200 flight hours; student pilot on fixed-wing; I build bunkers: several already standing in New Zealand and Australia - the fixed-wing licence is how I reach them when things go sideways; Long-term goal: a small plane for the family, and a round-the-world flight in it

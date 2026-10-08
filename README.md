@@ -28,6 +28,11 @@ Single source of truth: [resume.json](https://tonydzi.github.io/resume.json). Sa
 - [AI Operations / Product](Pitch-2-AI-Operations-Product.md)
 - [Technical GTM / Ecosystem / DevRel](Pitch-3-Technical-GTM-Ecosystem.md)
 
+## Written by hand, outside the forge
+
+Not generated from the master: each one is written by hand for a single application, and the forge never touches it. Facts in these are maintained by hand.
+
+- [Research Engineer — AI security & evaluation infrastructure (Anthropic Fellows)](Anton-Dziatkovskii-CV-Anthropic-Fellows-AI-Security.md)
 ---
 
 <!--ecosystem-map:start-->

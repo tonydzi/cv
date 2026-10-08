@@ -3,7 +3,7 @@
 https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA (Silicon Valley) – Sintra, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
-I run rooms for a living and have the calendar to prove it: 58 events hosted in 2025 on my own Luma calendar, the largest an invite-only investor/VC room with 245 registrations, on top of being a community organizer since 2019 — from Moscow research meetups to Silicon Valley Crypto Mondays. I own the distribution too: a 169k-subscriber channel and a 100+ member AI-practitioner community in Palo Alto. What I actually sell is not attendance but the right people in one room and the follow-up that happens after it. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote
+Community organizer since 2019 — from Moscow research meetups to Silicon Valley Crypto Mondays — and I hold a cadence rather than throw launch parties: a weekly call carried from February to December 2025, most of them small working calls, with one invite-only investor/VC room at 245 registrations. I own the distribution too: a 169k-subscriber channel and a 100+ member AI-practitioner community in Palo Alto. What I sell is not attendance but the right people in one room and the follow-up after it. US O-1 visa (active) + EU citizen (Polish passport) — authorized to work in the US and anywhere in the EU immediately, no visa sponsorship required; open to relocation (SF Bay Area base network) or remote
 
 ## Skills
 Python, C++, events, field marketing, event marketing, community programs, head of community, community manager, meetups, conferences, summits, hackathons, developer events, experiential marketing, event operations, sponsorships, roadshow, pipeline from events
@@ -14,7 +14,7 @@ Python, C++, events, field marketing, event marketing, community programs, head 
 
 Independent lab started in 2023 in Palo Alto, CA; grew a community of 100+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 
-- 58 events hosted in 2025 on my own calendar (Palo Alto AI Research Lab on Luma): a weekly community call plus invite-only rooms, the largest a private investor/VC room with 245 registrations
+- Carried a public weekly community call from February to December 2025 — 58 scheduled sessions on the Palo Alto AI Research Lab calendar (Luma); most were small working calls, and the largest single room was an invite-only investor/VC event with 245 registrations — registrations, not confirmed attendance
 - Distribution for the room comes from assets I own: a 169k-subscriber Telegram channel (@PaloAltoAi) and a 100+ member AI-practitioner community in Palo Alto, the heart of Silicon Valley — run as a standing weekly room, not a one-off launch party
 
 **COO / CTO (hired executive) — Platinum Software Development Company / Platinum VC & Incubator** (2015 – Present)

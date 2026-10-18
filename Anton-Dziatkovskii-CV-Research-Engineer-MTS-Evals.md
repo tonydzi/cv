@@ -10,7 +10,7 @@ research engineer, member of technical staff, MTS, applied research engineer, ev
 
 ## Experience
 
-**Technical Lead — Palo Alto AI Research Lab** (2023 – Present)
+**Operating Lead — Palo Alto AI Research Lab** (2023 – Present)
 
 Independent lab started in 2023 in Palo Alto, CA; grew a community of 100+ AI practitioners, including Stanford researchers and big-tech engineers. Production multi-machine Claude fleet run in public: claw-consensus (reproducible multi-machine agent consensus, offline demo, published evals, FAILURE-MODES.md), verbatim-citation-gate (zero-token gate + burden-of-proof judge that catches fabricated RAG citations, MIT), agent-control-plane-casebook (reproducible control-plane failures from the production fleet — each case ships a deterministic repro, a runnable red test and an upstream bug report), the operating manual written day by day (相棒 AIBŌ · The Partner).
 

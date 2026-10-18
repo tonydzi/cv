@@ -3,7 +3,7 @@
 https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · WhatsApp +1 341 222 9178 · calendly.com/paloaltolab/1-on-1 · Palo Alto, CA (Silicon Valley) – Sintra, PT / US O-1 · EU citizen (Poland)
 
 ## Summary
-Engineer and technical operator building AI-agent systems with MCP connectors, retrieval-augmented generation (RAG), CRM automation and reliability evals. Operate a six-machine production fleet at an independent lab, with public failure reports and reproducible tests. Previously built an in-house CRM used daily by up to 30 operators and managed 40+ developers across APAC. Programming: Python and C++. US O-1 active; Polish citizen; no US/EU sponsorship required.
+Engineer and technical operator building AI-agent systems with MCP connectors, retrieval-augmented generation (RAG), CRM automation and reliability evals. Operate an 8-node production agent fleet (5 machines mine, 3 teammates') at an independent lab, with public failure reports and reproducible tests. Previously built an in-house CRM used daily by up to 30 operators and managed 40+ developers across APAC. Programming: Python and C++. US O-1 active; Polish citizen; no US/EU sponsorship required.
 
 ## Skills
 Python, C++, forward deployed engineer, solutions engineer, AI deployment, LLM integration, MCP, RAG, agents, evals, Claude, customer-facing, post-sales

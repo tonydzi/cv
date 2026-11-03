@@ -20,7 +20,7 @@ https://tonydzi.github.io/ · github.com/tonydzi · dzyatkovskiy.a@gmail.com · 
 
 **Built the system.** A production multi-agent operation with explicit operating policy: a tiered action model (Tier-2 = money/irreversible/outbound → mandatory human gate), a written constitution the agents actually load, role discipline (implementer never declares "done" — an independent reviewer does), and a decision log for every declined proposal so nothing gets re-litigated.
 
-**Deployed it.** 100+ automation routines across a 6-machine fleet: content pipeline, CRM enrichment, nightly research fan-outs across multiple LLM vendors with a quorum rule, self-healing sync. Each new part ships with a test, a doc-passport, and a usage counter at birth.
+**Deployed it.** 1,275 scheduled routines across an 8-node fleet: content pipeline, CRM enrichment, nightly research fan-outs across multiple LLM vendors with a quorum rule, self-healing sync. Each new part ships with a test, a doc-passport, and a usage counter at birth.
 
 **Measured it.** Published evals: 0/17 high-risk actions slipped past the approval gate. Usage counters drive roadmap: zero usage in 30 days = the part is retired. Token cost of every improvement is measured per session — cost is a first-class product metric, not an afterthought.
 
